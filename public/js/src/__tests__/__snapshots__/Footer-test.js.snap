@@ -1,0 +1,199 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> expect to match snapshot 1`] = `
+<div
+  className="footer"
+>
+  <div
+    className="NavigationHeader"
+  >
+    <div
+      className="width-1440 mx-auto row list-unstyled footer-group"
+    >
+      <div
+        className="col-sm-6 col-md-3"
+      >
+        <p>
+          <span
+            className="f_title"
+          >
+            Hardware Developers
+          </span>
+          <li>
+            <a
+              href="https://www.intel.com/content/www/us/en/design/resource-design-center.html"
+            >
+              Resource and Design Center
+            </a>
+          </li>
+          <li>
+            <a
+              href="http://www.intel.com/buy/"
+            >
+              Shop Intel
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://firmware.intel.com/"
+            >
+              Firmware
+            </a>
+          </li>
+        </p>
+      </div>
+      <div
+        className="col-sm-6 col-md-3"
+      >
+        <p>
+          <span
+            className="f_title"
+          >
+            Open Source
+          </span>
+          <li>
+            <a
+              href="https://www.01.org/"
+            >
+              01.org
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.clearlinux.org/"
+            >
+              Clear Linux* Project
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.zephyrproject.org/"
+            >
+              Zephyr Project
+            </a>
+          </li>
+        </p>
+      </div>
+      <div
+        className="col-sm-6 col-md-3"
+      >
+        <p>
+          <span
+            className="f_title"
+          >
+            Manage Your Tools
+          </span>
+          <li>
+            <a
+              href="https://downloadcenter.intel.com/"
+            >
+              Download Center
+            </a>
+          </li>
+          <li>
+            <a
+              href="http://www.intel.com/supporttickets"
+            >
+              Online Service Center
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://registrationcenter.intel.com/"
+            >
+              Registration Center
+            </a>
+          </li>
+        </p>
+      </div>
+      <div
+        className="col-sm-6 col-md-3"
+      >
+        <p>
+          <span
+            className="f_title"
+          >
+            Stay Up-to-Date
+          </span>
+          <li>
+            <a
+              href="/en-US/forum"
+            >
+              Forums
+            </a>
+          </li>
+          <li>
+            <a
+              href="/en-US/recent-updates"
+            >
+              Recent Updates
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.youtube.com/subscription_center?add_us75er=intelswnetwork"
+            >
+              Subscribe to Our YouTube* Channel
+            </a>
+          </li>
+          <li>
+            <a
+              href="/en-US/newsletter"
+            >
+              Newsletter Archives
+            </a>
+          </li>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    className="SectionHeader f_terms"
+  >
+    <div
+      className="col-md-12"
+    >
+      <div
+        className="row text-nowrap"
+      >
+        <div
+          className="col-auto"
+        >
+          <a
+            href="http://www.intel.com/content/www/us/en/legal/terms-of-use.html"
+          >
+            Terms of Use
+          </a>
+        </div>
+        <div
+          className="col-auto"
+        >
+          <a
+            href="http://www.intel.com/content/www/us/en/legal/trademarks.html"
+          >
+            *Trademarks
+          </a>
+        </div>
+        <div
+          className="col-auto"
+        >
+          <a
+            href="http://www.intel.com/content/www/us/en/privacy/intel-online-privacy-notice-summary.html"
+          >
+            Privacy
+          </a>
+        </div>
+        <div
+          className="col-auto"
+        >
+          <a
+            href="http://www.intel.com/content/www/us/en/privacy/intel-cookie-notice.html"
+          >
+            Cookies
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,1510 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DropDownComponent /> expect to match snapshot 1`] = `
+<div
+  className="dropdown-component no-gutters"
+>
+  <div
+    className="col-md-3 col-lg-2 align-middle d-inline-block"
+  >
+    <span
+      className="category"
+    >
+      Language
+    </span>
+  </div>
+  <div
+    className="col-md-9 col-lg-10 align-middle d-inline-block"
+  >
+    <select
+      className="form-control dropdown"
+      id="language"
+      onChange={[Function]}
+      value="en-US"
+    >
+      <option
+        key="Afghanistan"
+        value="AF"
+      >
+        Afghanistan
+      </option>
+      <option
+        key="Åland Islands"
+        value="AX"
+      >
+        Åland Islands
+      </option>
+      <option
+        key="Albania"
+        value="AL"
+      >
+        Albania
+      </option>
+      <option
+        key="Algeria"
+        value="DZ"
+      >
+        Algeria
+      </option>
+      <option
+        key="American Samoa"
+        value="AS"
+      >
+        American Samoa
+      </option>
+      <option
+        key="Andorra"
+        value="AD"
+      >
+        Andorra
+      </option>
+      <option
+        key="Angola"
+        value="AO"
+      >
+        Angola
+      </option>
+      <option
+        key="Anguilla"
+        value="AI"
+      >
+        Anguilla
+      </option>
+      <option
+        key="Antarctica"
+        value="AQ"
+      >
+        Antarctica
+      </option>
+      <option
+        key="Antigua and Barbuda"
+        value="AG"
+      >
+        Antigua and Barbuda
+      </option>
+      <option
+        key="Argentina"
+        value="AR"
+      >
+        Argentina
+      </option>
+      <option
+        key="Armenia"
+        value="AM"
+      >
+        Armenia
+      </option>
+      <option
+        key="Aruba"
+        value="AW"
+      >
+        Aruba
+      </option>
+      <option
+        key="Australia"
+        value="AU"
+      >
+        Australia
+      </option>
+      <option
+        key="Austria"
+        value="AT"
+      >
+        Austria
+      </option>
+      <option
+        key="Azerbaijan"
+        value="AZ"
+      >
+        Azerbaijan
+      </option>
+      <option
+        key="Bahamas"
+        value="BS"
+      >
+        Bahamas
+      </option>
+      <option
+        key="Bahrain"
+        value="BH"
+      >
+        Bahrain
+      </option>
+      <option
+        key="Bangladesh"
+        value="BD"
+      >
+        Bangladesh
+      </option>
+      <option
+        key="Barbados"
+        value="BB"
+      >
+        Barbados
+      </option>
+      <option
+        key="Belarus"
+        value="BY"
+      >
+        Belarus
+      </option>
+      <option
+        key="Belgium"
+        value="BE"
+      >
+        Belgium
+      </option>
+      <option
+        key="Belize"
+        value="BZ"
+      >
+        Belize
+      </option>
+      <option
+        key="Benin"
+        value="BJ"
+      >
+        Benin
+      </option>
+      <option
+        key="Bermuda"
+        value="BM"
+      >
+        Bermuda
+      </option>
+      <option
+        key="Bhutan"
+        value="BT"
+      >
+        Bhutan
+      </option>
+      <option
+        key="Bolivia"
+        value="BO"
+      >
+        Bolivia
+      </option>
+      <option
+        key="Bosnia and Herzegovina"
+        value="BA"
+      >
+        Bosnia and Herzegovina
+      </option>
+      <option
+        key="Botswana"
+        value="BW"
+      >
+        Botswana
+      </option>
+      <option
+        key="Bouvet Island"
+        value="BV"
+      >
+        Bouvet Island
+      </option>
+      <option
+        key="Brazil"
+        value="BR"
+      >
+        Brazil
+      </option>
+      <option
+        key="British Indian Ocean Territory"
+        value="IO"
+      >
+        British Indian Ocean Territory
+      </option>
+      <option
+        key="Brunei Darussalam"
+        value="BN"
+      >
+        Brunei Darussalam
+      </option>
+      <option
+        key="Bulgaria"
+        value="BG"
+      >
+        Bulgaria
+      </option>
+      <option
+        key="Burkina Faso"
+        value="BF"
+      >
+        Burkina Faso
+      </option>
+      <option
+        key="Burundi"
+        value="BI"
+      >
+        Burundi
+      </option>
+      <option
+        key="Cambodia"
+        value="KH"
+      >
+        Cambodia
+      </option>
+      <option
+        key="Cameroon"
+        value="CM"
+      >
+        Cameroon
+      </option>
+      <option
+        key="Canada"
+        value="CA"
+      >
+        Canada
+      </option>
+      <option
+        key="Cape Verde"
+        value="CV"
+      >
+        Cape Verde
+      </option>
+      <option
+        key="Cayman Islands"
+        value="KY"
+      >
+        Cayman Islands
+      </option>
+      <option
+        key="Central African Republic"
+        value="CF"
+      >
+        Central African Republic
+      </option>
+      <option
+        key="Chad"
+        value="TD"
+      >
+        Chad
+      </option>
+      <option
+        key="Chile"
+        value="CL"
+      >
+        Chile
+      </option>
+      <option
+        key="China"
+        value="CN"
+      >
+        China
+      </option>
+      <option
+        key="Christmas Island"
+        value="CX"
+      >
+        Christmas Island
+      </option>
+      <option
+        key="Cocos (Keeling) Islands"
+        value="CC"
+      >
+        Cocos (Keeling) Islands
+      </option>
+      <option
+        key="Colombia"
+        value="CO"
+      >
+        Colombia
+      </option>
+      <option
+        key="Comoros"
+        value="KM"
+      >
+        Comoros
+      </option>
+      <option
+        key="Congo"
+        value="CG"
+      >
+        Congo
+      </option>
+      <option
+        key="Congo, The Democratic Republic of the"
+        value="CD"
+      >
+        Congo, The Democratic Republic of the
+      </option>
+      <option
+        key="Cook Islands"
+        value="CK"
+      >
+        Cook Islands
+      </option>
+      <option
+        key="Costa Rica"
+        value="CR"
+      >
+        Costa Rica
+      </option>
+      <option
+        key="Cote D'ivoire"
+        value="CI"
+      >
+        Cote D'ivoire
+      </option>
+      <option
+        key="Croatia"
+        value="HR"
+      >
+        Croatia
+      </option>
+      <option
+        key="Cuba"
+        value="CU"
+      >
+        Cuba
+      </option>
+      <option
+        key="Cyprus"
+        value="CY"
+      >
+        Cyprus
+      </option>
+      <option
+        key="Czech Republic"
+        value="CZ"
+      >
+        Czech Republic
+      </option>
+      <option
+        key="Denmark"
+        value="DK"
+      >
+        Denmark
+      </option>
+      <option
+        key="Djibouti"
+        value="DJ"
+      >
+        Djibouti
+      </option>
+      <option
+        key="Dominica"
+        value="DM"
+      >
+        Dominica
+      </option>
+      <option
+        key="Dominican Republic"
+        value="DO"
+      >
+        Dominican Republic
+      </option>
+      <option
+        key="East Timor"
+        value="TL"
+      >
+        East Timor
+      </option>
+      <option
+        key="Ecuador"
+        value="EC"
+      >
+        Ecuador
+      </option>
+      <option
+        key="Egypt"
+        value="EG"
+      >
+        Egypt
+      </option>
+      <option
+        key="El Salvador"
+        value="SV"
+      >
+        El Salvador
+      </option>
+      <option
+        key="Equatorial Guinea"
+        value="GQ"
+      >
+        Equatorial Guinea
+      </option>
+      <option
+        key="Eritrea"
+        value="ER"
+      >
+        Eritrea
+      </option>
+      <option
+        key="Estonia"
+        value="EE"
+      >
+        Estonia
+      </option>
+      <option
+        key="Ethiopia"
+        value="ET"
+      >
+        Ethiopia
+      </option>
+      <option
+        key="Falkland Islands (Malvinas)"
+        value="FK"
+      >
+        Falkland Islands (Malvinas)
+      </option>
+      <option
+        key="Faroe Islands"
+        value="FO"
+      >
+        Faroe Islands
+      </option>
+      <option
+        key="Fiji"
+        value="FJ"
+      >
+        Fiji
+      </option>
+      <option
+        key="Finland"
+        value="FI"
+      >
+        Finland
+      </option>
+      <option
+        key="France"
+        value="FR"
+      >
+        France
+      </option>
+      <option
+        key="French Guiana"
+        value="GF"
+      >
+        French Guiana
+      </option>
+      <option
+        key="French Polynesia"
+        value="PF"
+      >
+        French Polynesia
+      </option>
+      <option
+        key="French Southern Territories"
+        value="TF"
+      >
+        French Southern Territories
+      </option>
+      <option
+        key="Gabon"
+        value="GA"
+      >
+        Gabon
+      </option>
+      <option
+        key="Gambia"
+        value="GM"
+      >
+        Gambia
+      </option>
+      <option
+        key="Georgia"
+        value="GE"
+      >
+        Georgia
+      </option>
+      <option
+        key="Germany"
+        value="DE"
+      >
+        Germany
+      </option>
+      <option
+        key="Ghana"
+        value="GH"
+      >
+        Ghana
+      </option>
+      <option
+        key="Gibraltar"
+        value="GI"
+      >
+        Gibraltar
+      </option>
+      <option
+        key="Greece"
+        value="GR"
+      >
+        Greece
+      </option>
+      <option
+        key="Greenland"
+        value="GL"
+      >
+        Greenland
+      </option>
+      <option
+        key="Grenada"
+        value="GD"
+      >
+        Grenada
+      </option>
+      <option
+        key="Guadeloupe"
+        value="GP"
+      >
+        Guadeloupe
+      </option>
+      <option
+        key="Guam"
+        value="GU"
+      >
+        Guam
+      </option>
+      <option
+        key="Guatemala"
+        value="GT"
+      >
+        Guatemala
+      </option>
+      <option
+        key="Guernsey"
+        value="GG"
+      >
+        Guernsey
+      </option>
+      <option
+        key="Guinea"
+        value="GN"
+      >
+        Guinea
+      </option>
+      <option
+        key="Guinea-Bissau"
+        value="GW"
+      >
+        Guinea-Bissau
+      </option>
+      <option
+        key="Guyana"
+        value="GY"
+      >
+        Guyana
+      </option>
+      <option
+        key="Haiti"
+        value="HT"
+      >
+        Haiti
+      </option>
+      <option
+        key="Heard Island and Mcdonald Islands"
+        value="HM"
+      >
+        Heard Island and Mcdonald Islands
+      </option>
+      <option
+        key="Holy See (Vatican City State)"
+        value="VA"
+      >
+        Holy See (Vatican City State)
+      </option>
+      <option
+        key="Honduras"
+        value="HN"
+      >
+        Honduras
+      </option>
+      <option
+        key="Hong Kong"
+        value="HK"
+      >
+        Hong Kong
+      </option>
+      <option
+        key="Hungary"
+        value="HU"
+      >
+        Hungary
+      </option>
+      <option
+        key="Iceland"
+        value="IS"
+      >
+        Iceland
+      </option>
+      <option
+        key="India"
+        value="IN"
+      >
+        India
+      </option>
+      <option
+        key="Indonesia"
+        value="ID"
+      >
+        Indonesia
+      </option>
+      <option
+        key="Iran, Islamic Republic of"
+        value="IR"
+      >
+        Iran, Islamic Republic of
+      </option>
+      <option
+        key="Iraq"
+        value="IQ"
+      >
+        Iraq
+      </option>
+      <option
+        key="Ireland"
+        value="IE"
+      >
+        Ireland
+      </option>
+      <option
+        key="Isle of Man"
+        value="IM"
+      >
+        Isle of Man
+      </option>
+      <option
+        key="Israel"
+        value="IL"
+      >
+        Israel
+      </option>
+      <option
+        key="Italy"
+        value="IT"
+      >
+        Italy
+      </option>
+      <option
+        key="Jamaica"
+        value="JM"
+      >
+        Jamaica
+      </option>
+      <option
+        key="Japan"
+        value="JP"
+      >
+        Japan
+      </option>
+      <option
+        key="Jersey"
+        value="JE"
+      >
+        Jersey
+      </option>
+      <option
+        key="Jordan"
+        value="JO"
+      >
+        Jordan
+      </option>
+      <option
+        key="Kazakhstan"
+        value="KZ"
+      >
+        Kazakhstan
+      </option>
+      <option
+        key="Kenya"
+        value="KE"
+      >
+        Kenya
+      </option>
+      <option
+        key="Kiribati"
+        value="KI"
+      >
+        Kiribati
+      </option>
+      <option
+        key="Korea, Democratic People's Republic of"
+        value="KP"
+      >
+        Korea, Democratic People's Republic of
+      </option>
+      <option
+        key="Korea, Republic of"
+        value="KR"
+      >
+        Korea, Republic of
+      </option>
+      <option
+        key="Kuwait"
+        value="KW"
+      >
+        Kuwait
+      </option>
+      <option
+        key="Kyrgyzstan"
+        value="KG"
+      >
+        Kyrgyzstan
+      </option>
+      <option
+        key="Lao People's Democratic Republic"
+        value="LA"
+      >
+        Lao People's Democratic Republic
+      </option>
+      <option
+        key="Latvia"
+        value="LV"
+      >
+        Latvia
+      </option>
+      <option
+        key="Lebanon"
+        value="LB"
+      >
+        Lebanon
+      </option>
+      <option
+        key="Lesotho"
+        value="LS"
+      >
+        Lesotho
+      </option>
+      <option
+        key="Liberia"
+        value="LR"
+      >
+        Liberia
+      </option>
+      <option
+        key="Libya"
+        value="LY"
+      >
+        Libya
+      </option>
+      <option
+        key="Liechtenstein"
+        value="LI"
+      >
+        Liechtenstein
+      </option>
+      <option
+        key="Lithuania"
+        value="LT"
+      >
+        Lithuania
+      </option>
+      <option
+        key="Luxembourg"
+        value="LU"
+      >
+        Luxembourg
+      </option>
+      <option
+        key="Macau"
+        value="MO"
+      >
+        Macau
+      </option>
+      <option
+        key="Macedonia"
+        value="MK"
+      >
+        Macedonia
+      </option>
+      <option
+        key="Madagascar"
+        value="MG"
+      >
+        Madagascar
+      </option>
+      <option
+        key="Malawi"
+        value="MW"
+      >
+        Malawi
+      </option>
+      <option
+        key="Malaysia"
+        value="MY"
+      >
+        Malaysia
+      </option>
+      <option
+        key="Maldives"
+        value="MV"
+      >
+        Maldives
+      </option>
+      <option
+        key="Mali"
+        value="ML"
+      >
+        Mali
+      </option>
+      <option
+        key="Malta"
+        value="MT"
+      >
+        Malta
+      </option>
+      <option
+        key="Marshall Islands"
+        value="MH"
+      >
+        Marshall Islands
+      </option>
+      <option
+        key="Martinique"
+        value="MQ"
+      >
+        Martinique
+      </option>
+      <option
+        key="Mauritania"
+        value="MR"
+      >
+        Mauritania
+      </option>
+      <option
+        key="Mauritius"
+        value="MU"
+      >
+        Mauritius
+      </option>
+      <option
+        key="Mayotte"
+        value="YT"
+      >
+        Mayotte
+      </option>
+      <option
+        key="Mexico"
+        value="MX"
+      >
+        Mexico
+      </option>
+      <option
+        key="Micronesia,  Federated States of"
+        value="FM"
+      >
+        Micronesia,  Federated States of
+      </option>
+      <option
+        key="Moldova, Republic of"
+        value="MD"
+      >
+        Moldova, Republic of
+      </option>
+      <option
+        key="Monaco"
+        value="MC"
+      >
+        Monaco
+      </option>
+      <option
+        key="Mongolia"
+        value="MN"
+      >
+        Mongolia
+      </option>
+      <option
+        key="Montenegro"
+        value="ME"
+      >
+        Montenegro
+      </option>
+      <option
+        key="Montserrat"
+        value="MS"
+      >
+        Montserrat
+      </option>
+      <option
+        key="Morocco"
+        value="MA"
+      >
+        Morocco
+      </option>
+      <option
+        key="Mozambique"
+        value="MZ"
+      >
+        Mozambique
+      </option>
+      <option
+        key="Myanmar"
+        value="MM"
+      >
+        Myanmar
+      </option>
+      <option
+        key="Namibia"
+        value="NA"
+      >
+        Namibia
+      </option>
+      <option
+        key="Nauru"
+        value="NR"
+      >
+        Nauru
+      </option>
+      <option
+        key="Nepal"
+        value="NP"
+      >
+        Nepal
+      </option>
+      <option
+        key="Netherlands"
+        value="NL"
+      >
+        Netherlands
+      </option>
+      <option
+        key="Netherlands Antilles"
+        value="AN"
+      >
+        Netherlands Antilles
+      </option>
+      <option
+        key="New Caledonia"
+        value="NC"
+      >
+        New Caledonia
+      </option>
+      <option
+        key="New Zealand"
+        value="NZ"
+      >
+        New Zealand
+      </option>
+      <option
+        key="Nicaragua"
+        value="NI"
+      >
+        Nicaragua
+      </option>
+      <option
+        key="Niger"
+        value="NE"
+      >
+        Niger
+      </option>
+      <option
+        key="Nigeria"
+        value="NG"
+      >
+        Nigeria
+      </option>
+      <option
+        key="Niue"
+        value="NU"
+      >
+        Niue
+      </option>
+      <option
+        key="Norfolk Island"
+        value="NF"
+      >
+        Norfolk Island
+      </option>
+      <option
+        key="Northern Mariana Islands"
+        value="MP"
+      >
+        Northern Mariana Islands
+      </option>
+      <option
+        key="Norway"
+        value="NO"
+      >
+        Norway
+      </option>
+      <option
+        key="Oman"
+        value="OM"
+      >
+        Oman
+      </option>
+      <option
+        key="Pakistan"
+        value="PK"
+      >
+        Pakistan
+      </option>
+      <option
+        key="Palau"
+        value="PW"
+      >
+        Palau
+      </option>
+      <option
+        key="Palestinian Territory, Occupied"
+        value="PS"
+      >
+        Palestinian Territory, Occupied
+      </option>
+      <option
+        key="Panama"
+        value="PA"
+      >
+        Panama
+      </option>
+      <option
+        key="Papua New Guinea"
+        value="PG"
+      >
+        Papua New Guinea
+      </option>
+      <option
+        key="Paraguay"
+        value="PY"
+      >
+        Paraguay
+      </option>
+      <option
+        key="Peru"
+        value="PE"
+      >
+        Peru
+      </option>
+      <option
+        key="Philippines"
+        value="PH"
+      >
+        Philippines
+      </option>
+      <option
+        key="Pitcairn"
+        value="PN"
+      >
+        Pitcairn
+      </option>
+      <option
+        key="Poland"
+        value="PL"
+      >
+        Poland
+      </option>
+      <option
+        key="Portugal"
+        value="PT"
+      >
+        Portugal
+      </option>
+      <option
+        key="Puerto Rico"
+        value="PR"
+      >
+        Puerto Rico
+      </option>
+      <option
+        key="Qatar"
+        value="QA"
+      >
+        Qatar
+      </option>
+      <option
+        key="Reunion"
+        value="RE"
+      >
+        Reunion
+      </option>
+      <option
+        key="Romania"
+        value="RO"
+      >
+        Romania
+      </option>
+      <option
+        key="Russian Federation"
+        value="RU"
+      >
+        Russian Federation
+      </option>
+      <option
+        key="Rwanda"
+        value="RW"
+      >
+        Rwanda
+      </option>
+      <option
+        key="Saint Barthélemy"
+        value="BL"
+      >
+        Saint Barthélemy
+      </option>
+      <option
+        key="Saint Helena"
+        value="SH"
+      >
+        Saint Helena
+      </option>
+      <option
+        key="Saint Kitts and Nevis"
+        value="KN"
+      >
+        Saint Kitts and Nevis
+      </option>
+      <option
+        key="Saint Lucia"
+        value="LC"
+      >
+        Saint Lucia
+      </option>
+      <option
+        key="Saint Martin (French part)"
+        value="MF"
+      >
+        Saint Martin (French part)
+      </option>
+      <option
+        key="Saint Pierre and Miquelon"
+        value="PM"
+      >
+        Saint Pierre and Miquelon
+      </option>
+      <option
+        key="Saint Vincent and The Grenadines"
+        value="VC"
+      >
+        Saint Vincent and The Grenadines
+      </option>
+      <option
+        key="Samoa"
+        value="WS"
+      >
+        Samoa
+      </option>
+      <option
+        key="San Marino"
+        value="SM"
+      >
+        San Marino
+      </option>
+      <option
+        key="Sao Tome and Principe"
+        value="ST"
+      >
+        Sao Tome and Principe
+      </option>
+      <option
+        key="Saudi Arabia"
+        value="SA"
+      >
+        Saudi Arabia
+      </option>
+      <option
+        key="Senegal"
+        value="SN"
+      >
+        Senegal
+      </option>
+      <option
+        key="Serbia"
+        value="RS"
+      >
+        Serbia
+      </option>
+      <option
+        key="Seychelles"
+        value="SC"
+      >
+        Seychelles
+      </option>
+      <option
+        key="Sierra Leone"
+        value="SL"
+      >
+        Sierra Leone
+      </option>
+      <option
+        key="Singapore"
+        value="SG"
+      >
+        Singapore
+      </option>
+      <option
+        key="Slovakia"
+        value="SK"
+      >
+        Slovakia
+      </option>
+      <option
+        key="Slovenia"
+        value="SI"
+      >
+        Slovenia
+      </option>
+      <option
+        key="Solomon Islands"
+        value="SB"
+      >
+        Solomon Islands
+      </option>
+      <option
+        key="Somalia"
+        value="SO"
+      >
+        Somalia
+      </option>
+      <option
+        key="South Africa"
+        value="ZA"
+      >
+        South Africa
+      </option>
+      <option
+        key="South Georgia and The South Sandwich Islands"
+        value="GS"
+      >
+        South Georgia and The South Sandwich Islands
+      </option>
+      <option
+        key="South Sudan"
+        value="SS"
+      >
+        South Sudan
+      </option>
+      <option
+        key="Spain"
+        value="ES"
+      >
+        Spain
+      </option>
+      <option
+        key="Sri Lanka"
+        value="LK"
+      >
+        Sri Lanka
+      </option>
+      <option
+        key="Sudan"
+        value="SD"
+      >
+        Sudan
+      </option>
+      <option
+        key="Suriname"
+        value="SR"
+      >
+        Suriname
+      </option>
+      <option
+        key="Svalbard and Jan Mayen"
+        value="SJ"
+      >
+        Svalbard and Jan Mayen
+      </option>
+      <option
+        key="Swaziland"
+        value="SZ"
+      >
+        Swaziland
+      </option>
+      <option
+        key="Sweden"
+        value="SE"
+      >
+        Sweden
+      </option>
+      <option
+        key="Switzerland"
+        value="CH"
+      >
+        Switzerland
+      </option>
+      <option
+        key="Syrian Arab Republic"
+        value="SY"
+      >
+        Syrian Arab Republic
+      </option>
+      <option
+        key="Taiwan"
+        value="TW"
+      >
+        Taiwan
+      </option>
+      <option
+        key="Tajikistan"
+        value="TJ"
+      >
+        Tajikistan
+      </option>
+      <option
+        key="Tanzania, United Republic of"
+        value="TZ"
+      >
+        Tanzania, United Republic of
+      </option>
+      <option
+        key="Thailand"
+        value="TH"
+      >
+        Thailand
+      </option>
+      <option
+        key="Togo"
+        value="TG"
+      >
+        Togo
+      </option>
+      <option
+        key="Tokelau"
+        value="TK"
+      >
+        Tokelau
+      </option>
+      <option
+        key="Tonga"
+        value="TO"
+      >
+        Tonga
+      </option>
+      <option
+        key="Trinidad and Tobago"
+        value="TT"
+      >
+        Trinidad and Tobago
+      </option>
+      <option
+        key="Tunisia"
+        value="TN"
+      >
+        Tunisia
+      </option>
+      <option
+        key="Turkey"
+        value="TR"
+      >
+        Turkey
+      </option>
+      <option
+        key="Turkmenistan"
+        value="TM"
+      >
+        Turkmenistan
+      </option>
+      <option
+        key="Turks and Caicos Islands"
+        value="TC"
+      >
+        Turks and Caicos Islands
+      </option>
+      <option
+        key="Tuvalu"
+        value="TV"
+      >
+        Tuvalu
+      </option>
+      <option
+        key="Uganda"
+        value="UG"
+      >
+        Uganda
+      </option>
+      <option
+        key="Ukraine"
+        value="UA"
+      >
+        Ukraine
+      </option>
+      <option
+        key="United Arab Emirates"
+        value="AE"
+      >
+        United Arab Emirates
+      </option>
+      <option
+        key="United Kingdom"
+        value="GB"
+      >
+        United Kingdom
+      </option>
+      <option
+        key="United States"
+        value="US"
+      >
+        United States
+      </option>
+      <option
+        key="United States Minor Outlying Islands"
+        value="UM"
+      >
+        United States Minor Outlying Islands
+      </option>
+      <option
+        key="Uruguay"
+        value="UY"
+      >
+        Uruguay
+      </option>
+      <option
+        key="Uzbekistan"
+        value="UZ"
+      >
+        Uzbekistan
+      </option>
+      <option
+        key="Vanuatu"
+        value="VU"
+      >
+        Vanuatu
+      </option>
+      <option
+        key="Venezuela"
+        value="VE"
+      >
+        Venezuela
+      </option>
+      <option
+        key="Vietnam"
+        value="VN"
+      >
+        Vietnam
+      </option>
+      <option
+        key="Virgin Islands, British"
+        value="VG"
+      >
+        Virgin Islands, British
+      </option>
+      <option
+        key="Virgin Islands, U.S."
+        value="VI"
+      >
+        Virgin Islands, U.S.
+      </option>
+      <option
+        key="Wallis and Futuna"
+        value="WF"
+      >
+        Wallis and Futuna
+      </option>
+      <option
+        key="Western Sahara"
+        value="EH"
+      >
+        Western Sahara
+      </option>
+      <option
+        key="Yemen"
+        value="YE"
+      >
+        Yemen
+      </option>
+      <option
+        key="Zambia"
+        value="ZM"
+      >
+        Zambia
+      </option>
+      <option
+        key="Zimbabwe"
+        value="ZW"
+      >
+        Zimbabwe
+      </option>
+    </select>
+  </div>
+</div>
+`;

@@ -1,0 +1,510 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Dashboard /> expect set state to match snapshot 1`] = `
+<div
+  className="Dashboard"
+>
+  <Header
+    currentLanguage="en-US"
+    showProducts={false}
+    translate={
+      Object {
+        "developer-zone": "Developer Zone",
+        "page-title": "Dashboard | Intel® Developer Zone",
+        "sign-out": "Sign Out",
+        "support": "Support",
+        "your-contributions": "Your Contributions",
+        "your-products": "Your Products",
+        "your-profile": "Your Profile",
+      }
+    }
+  />
+  <div
+    id="profile"
+  >
+    <div
+      className="section-header"
+    >
+      <div
+        className="width-1440 mx-auto row align-items-center no-gutters padding-left-20"
+      >
+        <div
+          className="col-auto"
+        >
+          <span
+            className="header"
+          >
+            Edit Your Profile
+          </span>
+        </div>
+        <div
+          className="col text-right text-sm-nowrap"
+        >
+          <button
+            className="btn btn-secondary active"
+            disabled={true}
+            onClick={[Function]}
+            type="button"
+          >
+            <div
+              className="btn-loader"
+            >
+              <img
+                className="btn-loader-sm off"
+                src="images/loader.gif"
+              />
+            </div>
+            Cancel
+          </button>
+          <button
+            className="btn btn-primary active"
+            disabled={true}
+            onClick={[Function]}
+            type="button"
+          >
+            <div
+              className="btn-loader"
+            >
+              <img
+                className="btn-loader-sm off"
+                src="images/loader.gif"
+              />
+            </div>
+            Save
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      className="container"
+    >
+      <h2
+        className="title"
+      >
+        Member Since:
+         
+        9/22/2014
+      </h2>
+      View your 
+      <a
+        href="/en-us/user/"
+        key="1"
+      >
+        Public Profile
+      </a>
+      <SubHead
+        title="Profile Image"
+      />
+      <ProfileImage
+        default_images={
+          Object {
+            "chosen_image": "",
+            "images": Array [
+              "https://s3.amazonaws.com/dpi-prod/default-images/avatar-Autonomous-2.jpg",
+              "https://s3.amazonaws.com/dpi-prod/default-images/avatar-GD.jpg",
+              "https://s3.amazonaws.com/dpi-prod/default-images/avatar-IoT-2.jpg",
+              "https://s3.amazonaws.com/dpi-prod/default-images/bot01-square.jpg",
+              "https://s3.amazonaws.com/dpi-prod/default-images/paper-bird.jpg",
+              "https://s3.amazonaws.com/dpi-prod/default-images/wire-head-square.jpg",
+            ],
+          }
+        }
+        freezeInput={[Function]}
+        profile_image="https://s3.amazonaws.com/idz-profile-images-test/11531542/sirloin-1200-1200.jpg"
+        recommendedSize="Recommended: 300x500 pixels"
+        remove="Remove"
+        setProfileImage={[Function]}
+        upload="Upload"
+      />
+      <ProfileDetailsComponent
+        componentHasError={
+          Object {
+            "bio": Object {
+              "flag": false,
+              "message": "",
+            },
+            "company": Object {
+              "flag": false,
+              "message": "",
+            },
+            "developer-mesh": Object {
+              "flag": false,
+              "message": "",
+            },
+            "display_name": Object {
+              "flag": false,
+              "message": "",
+            },
+            "email": Object {
+              "flag": false,
+              "message": "",
+            },
+            "first_name": Object {
+              "flag": false,
+              "message": "",
+            },
+            "github": Object {
+              "flag": false,
+              "message": "",
+            },
+            "last_name": Object {
+              "flag": false,
+              "message": "",
+            },
+            "phone": Object {
+              "flag": false,
+              "message": "",
+            },
+            "signature": Object {
+              "flag": false,
+              "message": "",
+            },
+            "twitter": Object {
+              "flag": false,
+              "message": "",
+            },
+            "website": Object {
+              "flag": false,
+              "message": "",
+            },
+          }
+        }
+        countries={Array []}
+        currentLanguage="en-US"
+        data={
+          Object {
+            "belt": "blue",
+            "bio": "All about Brent - he likes Astoria.
+
+<b>yay?</b>",
+            "company": "Intel",
+            "country": "US",
+            "create_date_timestamp": 1411419675799,
+            "display_name": "Brent Rieck (Intel)",
+            "email": "brent.rieck@intel.com",
+            "enterprise_id": "11531542",
+            "first_name": "Brent",
+            "language": "en-US",
+            "last_name": "Rieck",
+            "other_ids": Object {
+              "idz": "1083371",
+            },
+            "other_services": Object {
+              "developer-mesh": "bsr",
+              "github": "bsr",
+              "twitter": "bsr",
+              "website": "http://bsr.fun",
+            },
+            "phone": "503.503.5400",
+            "points": "140",
+            "profile_image": "https://s3.amazonaws.com/idz-profile-images-test/11531542/sirloin-1200-1200.jpg",
+            "signature": "Signature",
+            "total_points": "1365",
+          }
+        }
+        freezeAll={false}
+        handleLanguageChange={[Function]}
+        handleProfileChange={[Function]}
+        translateError={
+          Object {
+            "devmesh": "Must be a valid Developer Mesh username.",
+            "email": "Must be a valid email address.",
+            "empty": "This field can't be empty.",
+            "github": "Must be a valid GitHub username.",
+            "noHTML": "HTML tags are not allowed.",
+            "required": "This field is required.",
+            "someHTML": "The only tags allowed are: <a> <b> <blockquote> <br> <em> <i> <img> <li> <ol> <p> <pre> <s> <strong> <sub> <sup> <ul></pre>",
+            "twitter": "Must be a valid Twitter username.",
+            "url": "Must be a valid URL.",
+          }
+        }
+        translateTitle={
+          Object {
+            "about": "About (Public)",
+            "company": "Company",
+            "connect-developer-mesh": "Developer Mesh",
+            "connect-github": "GitHub",
+            "connect-linkedin": "LinkedIn",
+            "connect-title": "Connect (Public)",
+            "connect-twitter": "Twitter",
+            "connect-website": "Website",
+            "country": "Country/Region",
+            "display-name": "Display Name (Public)",
+            "email": "Email Address",
+            "first-name": "First Name",
+            "language-preference": "Language Preference",
+            "language-preference-options": Array [
+              Object {
+                "name": "English",
+                "value": "en-US",
+              },
+              Object {
+                "name": "简体中文",
+                "value": "zh-CN",
+              },
+              Object {
+                "name": "Español",
+                "value": "es-ES",
+              },
+              Object {
+                "name": "Português",
+                "value": "pt-BR",
+              },
+              Object {
+                "name": "Русский",
+                "value": "ru-RU",
+              },
+            ],
+            "last-name": "Last Name",
+            "phone-number": "Phone Number",
+            "signature": "Signature (Public)",
+            "title": "Profile Details",
+          }
+        }
+      />
+      <SubHead
+        title="Your Contributions to the Intel Developer Zone"
+      />
+      <ContributeButtons
+        addArticle="Add an Article"
+        addBlog="Add a Blog Post"
+        addForum="Add a Forum Topic"
+        currentLanguage="en-US"
+        idzUserId="1083371"
+        viewContributions="View All Contributions"
+      />
+      <hr />
+      <BeltStatusComponent
+        belt="blue"
+        currentLanguage="en-US"
+        points="140"
+        total_points="1365"
+        translate={
+          Object {
+            "information": "<a href=\\"https://software.intel.com/en-us/blackbelt\\">Learn about belt status &gt;</a>",
+            "next-belt-level--title": "Next Belt Level (Green):",
+            "next-belt-level-brown-title": "Next Belt Level (Red):",
+            "next-belt-level-green-title": "Next Belt Level (Brown):",
+            "next-belt-level-points": "Points",
+            "next-belt-level-red-title": "",
+            "points-activity": "Points Activity",
+            "status-": "You don't have a belt yet",
+            "status-black": "You are a black belt",
+            "status-blue": "You are a blue belt",
+            "status-brown": "You are a brown belt",
+            "status-green": "You are a green belt",
+            "status-red": "You are a red belt",
+            "status-title": "Current Status Points:",
+            "total-title": "Total Lifetime Points:",
+          }
+        }
+      />
+    </div>
+    <Footer
+      currentLanguage="en-US"
+      translate={
+        Object {
+          "01-org": "01.org",
+          "clear-linux-project": "Clear Linux* Project",
+          "cookies": "Cookies",
+          "download-center": "Download Center",
+          "firmware": "Firmware",
+          "forums": "Forums",
+          "header-hardware-developers": "Hardware Developers",
+          "header-manage-your-tools": "Manage Your Tools",
+          "header-open-source": "Open Source",
+          "header-stay-up-to-date": "Stay Up-to-Date",
+          "newsletter-archives": "Newsletter Archives",
+          "online-serivce-center": "Online Service Center",
+          "privacy": "Privacy",
+          "recent-updates": "Recent Updates",
+          "registration-center": "Registration Center",
+          "resource-and-design-center": "Resource and Design Center",
+          "shop-intel": "Shop Intel",
+          "subscribe-to-our-youtube-channel": "Subscribe to Our YouTube* Channel",
+          "terms-of-use": "Terms of Use",
+          "trademarks": "*Trademarks",
+          "zephyr-project": "Zephyr Project",
+        }
+      }
+    />
+  </div>
+  <div
+    id="contributions"
+  >
+    <div
+      className="section-header"
+    >
+      <div
+        className="width-1440 mx-auto col-auto padding-left-20"
+      >
+        <span
+          className="header"
+        >
+          Contributions to the Intel Developer Zone
+        </span>
+      </div>
+    </div>
+    <div
+      className="container"
+    >
+      <div
+        className="col-md-12"
+      >
+        <ContributeButtons
+          addArticle="Add an Article"
+          addBlog="Add a Blog Post"
+          addForum="Add a Forum Topic"
+          currentLanguage="en-US"
+          idzUserId="1083371"
+          viewContributions="View All Contributions"
+        />
+      </div>
+      <ContributionsComponent
+        currentLanguage="en-US"
+        data={
+          Array [
+            Object {
+              "init": true,
+            },
+          ]
+        }
+        init={false}
+        translate={
+          Object {
+            "add-article-button": "Add an Article",
+            "add-blog-post-button": "Add a Blog Post",
+            "add-forum-topic-button": "Add a Forum Topic",
+            "event-names": Object {
+              "admin": "Admin",
+              "app": "App",
+              "article": "Article",
+              "blog": "Blog",
+              "comment": "Comment",
+              "courseware": "Courseware",
+              "flag": "Flag",
+              "forum": "Forum",
+              "project": "Project",
+            },
+            "event-unpublish": "(unpublished)",
+            "filter-by": "Filter By...",
+            "header": "Contributions to the Intel Developer Zone",
+            "manage-your-content-button": "Manage Your Content",
+            "points-earned": "Points Earned",
+            "posted": "Posted",
+            "title": "Title",
+            "type": "Type",
+          }
+        }
+        view_more="View More"
+      />
+    </div>
+    <Footer
+      currentLanguage="en-US"
+      translate={
+        Object {
+          "01-org": "01.org",
+          "clear-linux-project": "Clear Linux* Project",
+          "cookies": "Cookies",
+          "download-center": "Download Center",
+          "firmware": "Firmware",
+          "forums": "Forums",
+          "header-hardware-developers": "Hardware Developers",
+          "header-manage-your-tools": "Manage Your Tools",
+          "header-open-source": "Open Source",
+          "header-stay-up-to-date": "Stay Up-to-Date",
+          "newsletter-archives": "Newsletter Archives",
+          "online-serivce-center": "Online Service Center",
+          "privacy": "Privacy",
+          "recent-updates": "Recent Updates",
+          "registration-center": "Registration Center",
+          "resource-and-design-center": "Resource and Design Center",
+          "shop-intel": "Shop Intel",
+          "subscribe-to-our-youtube-channel": "Subscribe to Our YouTube* Channel",
+          "terms-of-use": "Terms of Use",
+          "trademarks": "*Trademarks",
+          "zephyr-project": "Zephyr Project",
+        }
+      }
+    />
+  </div>
+  <div
+    id="products"
+  >
+    <div
+      className="section-header"
+    >
+      <div
+        className="width-1440 mx-auto row align-items-center padding-left-20"
+      >
+        <div
+          className="col-auto"
+        >
+          <span
+            className="header"
+          >
+            Manage Your Products
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="container"
+    >
+      <ProductsComponent
+        currentLanguage="en-US"
+        data={
+          Array [
+            Object {
+              "init": true,
+            },
+          ]
+        }
+        init={false}
+        translate={
+          Object {
+            "download-button": "Download",
+            "expiry-date": "Expiration Date",
+            "forum": "Forum",
+            "header": "Manage Your Products",
+            "license-type": "License Type",
+            "manage-license": "Manage License",
+            "online-services-button": "Online Services",
+            "purchase-date": "Purchase Date",
+            "serial": "Serial Number",
+          }
+        }
+        view_more="View More"
+      />
+    </div>
+    <Footer
+      currentLanguage="en-US"
+      translate={
+        Object {
+          "01-org": "01.org",
+          "clear-linux-project": "Clear Linux* Project",
+          "cookies": "Cookies",
+          "download-center": "Download Center",
+          "firmware": "Firmware",
+          "forums": "Forums",
+          "header-hardware-developers": "Hardware Developers",
+          "header-manage-your-tools": "Manage Your Tools",
+          "header-open-source": "Open Source",
+          "header-stay-up-to-date": "Stay Up-to-Date",
+          "newsletter-archives": "Newsletter Archives",
+          "online-serivce-center": "Online Service Center",
+          "privacy": "Privacy",
+          "recent-updates": "Recent Updates",
+          "registration-center": "Registration Center",
+          "resource-and-design-center": "Resource and Design Center",
+          "shop-intel": "Shop Intel",
+          "subscribe-to-our-youtube-channel": "Subscribe to Our YouTube* Channel",
+          "terms-of-use": "Terms of Use",
+          "trademarks": "*Trademarks",
+          "zephyr-project": "Zephyr Project",
+        }
+      }
+    />
+  </div>
+</div>
+`;

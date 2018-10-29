@@ -1,0 +1,1126 @@
+[
+  {
+    "event_name": "admin_point_grant_manual",
+    "entity_id": "1508879306610",
+    "url": "http://software.intel.com/1508879306610",
+    "description": "belt testing",
+    "expires": 1540415304816,
+    "points": -1100,
+    "awarded": 1508879304816,
+    "nice_event_name": "admin",
+    "parsedEvent": {
+      "application": "admin",
+      "type": "point",
+      "subtype": "grant",
+      "action": "manual"
+    },
+    "linkText": "belt testing",
+    "linkUrl": false
+  },
+  {
+    "event_name": "idz_node_blog_unpublish",
+    "entity_id": "746639",
+    "url": "https://int2-software.intel.com/node/746639",
+    "description": "blog: new event name test",
+    "expires": 1539466568096,
+    "points": -80,
+    "awarded": 1507930568096,
+    "nice_event_name": "blog",
+    "parsedEvent": {
+      "application": "idz",
+      "type": "node",
+      "subtype": "blog",
+      "action": "unpublish"
+    },
+    "linkText": "blog: new event name test",
+    "linkUrl": false,
+    "unpublished": true
+  },
+  {
+    "event_name": "idz_comment_article_unpublish",
+    "entity_id": "1913416",
+    "url": "https://int2-software.intel.com/comment/1913416",
+    "description": "article comment #2",
+    "expires": 1539464865253,
+    "points": -5,
+    "awarded": 1507928865253,
+    "nice_event_name": "comment",
+    "parsedEvent": {
+      "application": "idz",
+      "type": "comment",
+      "subtype": "article",
+      "action": "unpublish"
+    },
+    "linkText": "article comment #2",
+    "linkUrl": false,
+    "unpublished": true
+  },
+  {
+    "event_name": "idz_comment_article_publish",
+    "entity_id": "1913417",
+    "url": "https://int2-software.intel.com/comment/1913417",
+    "description": "article comment #3",
+    "expires": 1539464839028,
+    "points": 5,
+    "awarded": 1507928839028,
+    "nice_event_name": "comment",
+    "parsedEvent": {
+      "application": "idz",
+      "type": "comment",
+      "subtype": "article",
+      "action": "publish"
+    },
+    "linkText": "article comment #3",
+    "linkUrl": "https://int2-software.intel.com/comment/1913417"
+  },
+  {
+    "event_name": "idz_comment_article_publish",
+    "entity_id": "1913416",
+    "url": "https://int2-software.intel.com/comment/1913416",
+    "description": "article comment #2",
+    "expires": 1539464704963,
+    "points": 5,
+    "awarded": 1507928704963,
+    "nice_event_name": "comment",
+    "parsedEvent": {
+      "application": "idz",
+      "type": "comment",
+      "subtype": "article",
+      "action": "publish"
+    },
+    "linkText": "article comment #2",
+    "linkUrl": false,
+    "unpublished": false
+  },
+  {
+    "event_name": "idz_comment_blog_publish",
+    "entity_id": "1913415",
+    "url": "https://int2-software.intel.com/comment/1913415",
+    "description": "blog comment #2",
+    "expires": 1539464694849,
+    "points": 5,
+    "awarded": 1507928694849,
+    "nice_event_name": "comment",
+    "parsedEvent": {
+      "application": "idz",
+      "type": "comment",
+      "subtype": "blog",
+      "action": "publish"
+    },
+    "linkText": "blog comment #2",
+    "linkUrl": "https://int2-software.intel.com/comment/1913415"
+  },
+  {
+    "event_name": "idz_comment_forum_publish",
+    "entity_id": "1913414",
+    "url": "https://int2-software.intel.com/comment/1913414",
+    "description": "forum comment",
+    "expires": 1539464647998,
+    "points": 20,
+    "awarded": 1507928647998,
+    "nice_event_name": "comment",
+    "parsedEvent": {
+      "application": "idz",
+      "type": "comment",
+      "subtype": "forum",
+      "action": "publish"
+    },
+    "linkText": "forum comment",
+    "linkUrl": "https://int2-software.intel.com/comment/1913414"
+  },
+  {
+    "event_name": "idz_node_forum_publish",
+    "entity_id": "746640",
+    "url": "https://int2-software.intel.com/node/746640",
+    "description": "forum: new event name test",
+    "expires": 1539455240699,
+    "points": 10,
+    "awarded": 1507919240699,
+    "nice_event_name": "forum",
+    "parsedEvent": {
+      "application": "idz",
+      "type": "node",
+      "subtype": "forum",
+      "action": "publish"
+    },
+    "linkText": "forum: new event name test",
+    "linkUrl": "https://int2-software.intel.com/node/746640"
+  },
+  {
+    "event_name": "idz_node_blog_publish",
+    "entity_id": "746639",
+    "url": "https://int2-software.intel.com/node/746639",
+    "description": "blog: new event name test",
+    "expires": 1539455160468,
+    "points": 80,
+    "awarded": 1507919160468,
+    "nice_event_name": "blog",
+    "parsedEvent": {
+      "application": "idz",
+      "type": "node",
+      "subtype": "blog",
+      "action": "publish"
+    },
+    "linkText": "blog: new event name test",
+    "linkUrl": false,
+    "unpublished": false
+  },
+  {
+    "event_name": "idz_node_article_publish",
+    "entity_id": "746638",
+    "url": "https://int2-software.intel.com/node/746638",
+    "description": "article: new event name test",
+    "expires": 1539455097315,
+    "points": 80,
+    "awarded": 1507919097315,
+    "nice_event_name": "article",
+    "parsedEvent": {
+      "application": "idz",
+      "type": "node",
+      "subtype": "article",
+      "action": "publish"
+    },
+    "linkText": "article: new event name test",
+    "linkUrl": "https://int2-software.intel.com/node/746638"
+  },
+  {
+    "event_name": "idz_comment_forum_publish",
+    "entity_id": "1913197",
+    "url": "https://int2-software.intel.com/comment/1913197",
+    "description": "Inserted 1913197: this is a link? for node: 746477",
+    "expires": 1539183257031,
+    "points": 20,
+    "awarded": 1507647257031,
+    "nice_event_name": "comment",
+    "parsedEvent": {
+      "application": "idz",
+      "type": "comment",
+      "subtype": "forum",
+      "action": "publish"
+    },
+    "linkText": "Inserted 1913197: this is a link? for node: 746477",
+    "linkUrl": "https://int2-software.intel.com/comment/1913197"
+  },
+  {
+    "event_name": "idz_comment_forum_publish",
+    "entity_id": "1913196",
+    "url": "https://int2-software.intel.com/comment/1913196",
+    "description": "Inserted 1913196: testing, omg. for node: 746477",
+    "expires": 1539183194427,
+    "points": 20,
+    "awarded": 1507647194427,
+    "nice_event_name": "comment",
+    "parsedEvent": {
+      "application": "idz",
+      "type": "comment",
+      "subtype": "forum",
+      "action": "publish"
+    },
+    "linkText": "Inserted 1913196: testing, omg. for node: 746477",
+    "linkUrl": "https://int2-software.intel.com/comment/1913196"
+  },
+  {
+    "event_name": "idz_node_forum_publish",
+    "entity_id": "746477",
+    "url": "https://int2-software.intel.com/node/746477",
+    "description":
+      "Inserted forum: <span onclick=\"alert('title span tag')\">test strip tags</span>, ",
+    "expires": 1539182543856,
+    "points": 10,
+    "awarded": 1507646543856,
+    "nice_event_name": "forum",
+    "parsedEvent": {
+      "application": "idz",
+      "type": "node",
+      "subtype": "forum",
+      "action": "publish"
+    },
+    "linkText":
+      "Inserted forum: <span onclick=\"alert('title span tag')\">test strip tags</span>, ",
+    "linkUrl": "https://int2-software.intel.com/node/746477"
+  },
+  {
+    "event_name": "idz_comment_forum_publish",
+    "entity_id": "1913195",
+    "url": "https://int2-software.intel.com/comment/1913195",
+    "description":
+      "Inserted 1913195: this is a comment on the test for node: 746476",
+    "expires": 1539120791057,
+    "points": 20,
+    "awarded": 1507584791057,
+    "nice_event_name": "comment",
+    "parsedEvent": {
+      "application": "idz",
+      "type": "comment",
+      "subtype": "forum",
+      "action": "publish"
+    },
+    "linkText":
+      "Inserted 1913195: this is a comment on the test for node: 746476",
+    "linkUrl": "https://int2-software.intel.com/comment/1913195"
+  },
+  {
+    "event_name": "admin_point_grant_manual",
+    "entity_id": "1507581607507",
+    "url": "http://software.intel.com/1507581607507",
+    "description": "testing admin points",
+    "expires": 1539117606713,
+    "points": 10,
+    "awarded": 1507581606713,
+    "nice_event_name": "admin",
+    "parsedEvent": {
+      "application": "admin",
+      "type": "point",
+      "subtype": "grant",
+      "action": "manual"
+    },
+    "linkText": "testing admin points",
+    "linkUrl": false
+  },
+  {
+    "event_name": "idz_node_forum_publish",
+    "entity_id": "746476",
+    "url": "https://int2-software.intel.com/node/746476",
+    "description": "Inserted forum: test forum topic, ",
+    "expires": 1539106947158,
+    "points": 10,
+    "awarded": 1507570947158,
+    "nice_event_name": "forum",
+    "parsedEvent": {
+      "application": "idz",
+      "type": "node",
+      "subtype": "forum",
+      "action": "publish"
+    },
+    "linkText": "Inserted forum: test forum topic, ",
+    "linkUrl": "https://int2-software.intel.com/node/746476"
+  },
+  {
+    "event_name": "admin_point_grant_manual",
+    "entity_id": "1507568832482",
+    "url": "http://software.intel.com/1507568832482",
+    "description": "<script>alert(\"yay!\");</script>",
+    "expires": 1539104831522,
+    "points": 10,
+    "awarded": 1507568831522,
+    "nice_event_name": "admin",
+    "parsedEvent": {
+      "application": "admin",
+      "type": "point",
+      "subtype": "grant",
+      "action": "manual"
+    },
+    "linkText": "<script>alert(\"yay!\");</script>",
+    "linkUrl": false
+  },
+  {
+    "event_name": "admin_point_grant_manual",
+    "entity_id": "1507568250609",
+    "url": "http://software.intel.com/1507568250609",
+    "description": "<script>alert(\"yay!\");</script>",
+    "expires": 1539104250596,
+    "points": 10,
+    "awarded": 1507568250596,
+    "nice_event_name": "admin",
+    "parsedEvent": {
+      "application": "admin",
+      "type": "point",
+      "subtype": "grant",
+      "action": "manual"
+    },
+    "linkText": "<script>alert(\"yay!\");</script>",
+    "linkUrl": false
+  },
+  {
+    "event_name": "admin_point_grant_manual",
+    "entity_id": "1507568223849",
+    "url": "http://software.intel.com/1507568223849",
+    "description": "<a href=\"http://google.com/\">google link test</a>",
+    "expires": 1539104222299,
+    "points": 10,
+    "awarded": 1507568222299,
+    "nice_event_name": "admin",
+    "parsedEvent": {
+      "application": "admin",
+      "type": "point",
+      "subtype": "grant",
+      "action": "manual"
+    },
+    "linkText": "<a href=\"http://google.com/\">google link test</a>",
+    "linkUrl": false
+  },
+  {
+    "event_name": "admin_point_grant_manual",
+    "entity_id": "1507568122635",
+    "url": "http://software.intel.com/1507568122635",
+    "description": "because!",
+    "expires": 1539104122488,
+    "points": -300,
+    "awarded": 1507568122488,
+    "nice_event_name": "admin",
+    "parsedEvent": {
+      "application": "admin",
+      "type": "point",
+      "subtype": "grant",
+      "action": "manual"
+    },
+    "linkText": "because!",
+    "linkUrl": false
+  },
+  {
+    "event_name": "admin_point_grant_manual",
+    "entity_id": "1507566641426",
+    "url": "http://software.intel.com/1507566641426",
+    "description": "for testing reasons!",
+    "expires": 1539102641284,
+    "points": 25,
+    "awarded": 1507566641284,
+    "nice_event_name": "admin",
+    "parsedEvent": {
+      "application": "admin",
+      "type": "point",
+      "subtype": "grant",
+      "action": "manual"
+    },
+    "linkText": "for testing reasons!",
+    "linkUrl": false
+  },
+  {
+    "event_name": "admin_point_grant_manual",
+    "entity_id": "1507566119079",
+    "url": "http://software.intel.com/1507566119079",
+    "description": "because",
+    "expires": 1539102120144,
+    "points": 95,
+    "awarded": 1507566120144,
+    "nice_event_name": "admin",
+    "parsedEvent": {
+      "application": "admin",
+      "type": "point",
+      "subtype": "grant",
+      "action": "manual"
+    },
+    "linkText": "because",
+    "linkUrl": false
+  },
+  {
+    "event_name": "admin_point_grant_manual",
+    "entity_id": "1507564378479",
+    "url": "http://software.intel.com/1507564378479",
+    "description": "because you're awesome!",
+    "expires": 1539100379489,
+    "points": 100,
+    "awarded": 1507564379489,
+    "nice_event_name": "admin",
+    "parsedEvent": {
+      "application": "admin",
+      "type": "point",
+      "subtype": "grant",
+      "action": "manual"
+    },
+    "linkText": "because you're awesome!",
+    "linkUrl": false
+  },
+  {
+    "event_name": "admin_point_grant_manual",
+    "entity_id": "1507306047087",
+    "url": "http://software.intel.com/1507306047087",
+    "description": "yeah!",
+    "expires": 1538842047087,
+    "points": 100,
+    "awarded": 1507306047087,
+    "nice_event_name": "admin",
+    "parsedEvent": {
+      "application": "admin",
+      "type": "point",
+      "subtype": "grant",
+      "action": "manual"
+    },
+    "linkText": "yeah!",
+    "linkUrl": false
+  },
+  {
+    "event_name": "admin_point_grant_manual",
+    "entity_id": "1507305980074",
+    "url": "http://software.intel.com/1507305980074",
+    "description": "yeah!",
+    "expires": 1538841980074,
+    "points": 100,
+    "awarded": 1507305980074,
+    "nice_event_name": "admin",
+    "parsedEvent": {
+      "application": "admin",
+      "type": "point",
+      "subtype": "grant",
+      "action": "manual"
+    },
+    "linkText": "yeah!",
+    "linkUrl": false
+  },
+  {
+    "event_name": "admin_point_grant_manual",
+    "entity_id": "1507305475282",
+    "url": "http://software.intel.com/1507305475282",
+    "description": "yeah!",
+    "expires": 1538841475282,
+    "points": 100,
+    "awarded": 1507305475282,
+    "nice_event_name": "admin",
+    "parsedEvent": {
+      "application": "admin",
+      "type": "point",
+      "subtype": "grant",
+      "action": "manual"
+    },
+    "linkText": "yeah!",
+    "linkUrl": false
+  },
+  {
+    "event_name": "admin_point_grant_manual",
+    "entity_id": "1507305351492",
+    "url": "http://software.intel.com/1507305351492",
+    "description": "yeah!",
+    "expires": 1538841351492,
+    "points": 100,
+    "awarded": 1507305351492,
+    "nice_event_name": "admin",
+    "parsedEvent": {
+      "application": "admin",
+      "type": "point",
+      "subtype": "grant",
+      "action": "manual"
+    },
+    "linkText": "yeah!",
+    "linkUrl": false
+  },
+  {
+    "event_name": "admin_point_grant_manual",
+    "entity_id": "1507305224707",
+    "url": "http://software.intel.com/1507305224707",
+    "description": "yeah!",
+    "expires": 1538841224707,
+    "points": 100,
+    "awarded": 1507305224707,
+    "nice_event_name": "admin",
+    "parsedEvent": {
+      "application": "admin",
+      "type": "point",
+      "subtype": "grant",
+      "action": "manual"
+    },
+    "linkText": "yeah!",
+    "linkUrl": false
+  },
+  {
+    "event_name": "admin_point_grant_manual",
+    "entity_id": "1507304878548",
+    "url": "http://software.intel.com/1507304878548",
+    "description": "yeah!",
+    "expires": 1538840878548,
+    "points": 100,
+    "awarded": 1507304878548,
+    "nice_event_name": "admin",
+    "parsedEvent": {
+      "application": "admin",
+      "type": "point",
+      "subtype": "grant",
+      "action": "manual"
+    },
+    "linkText": "yeah!",
+    "linkUrl": false
+  },
+  {
+    "event_name": "admin_point_grant_manual",
+    "entity_id": "1507304711878",
+    "url": "http://software.intel.com/1507304711878",
+    "description": "yeah!",
+    "expires": 1538840711878,
+    "points": 100,
+    "awarded": 1507304711878,
+    "nice_event_name": "admin",
+    "parsedEvent": {
+      "application": "admin",
+      "type": "point",
+      "subtype": "grant",
+      "action": "manual"
+    },
+    "linkText": "yeah!",
+    "linkUrl": false
+  },
+  {
+    "event_name": "admin_point_grant_manual",
+    "entity_id": "1507304309110",
+    "url": "http://software.intel.com/1507304309110",
+    "description": "yeah!",
+    "expires": 1538840309110,
+    "points": 100,
+    "awarded": 1507304309110,
+    "nice_event_name": "admin",
+    "parsedEvent": {
+      "application": "admin",
+      "type": "point",
+      "subtype": "grant",
+      "action": "manual"
+    },
+    "linkText": "yeah!",
+    "linkUrl": false
+  },
+  {
+    "event_name": "admin_point_grant_manual",
+    "entity_id": "1507304303766",
+    "url": "http://software.intel.com/1507304303766",
+    "description": "yeah!",
+    "expires": 1538840303766,
+    "points": 100,
+    "awarded": 1507304303766,
+    "nice_event_name": "admin",
+    "parsedEvent": {
+      "application": "admin",
+      "type": "point",
+      "subtype": "grant",
+      "action": "manual"
+    },
+    "linkText": "yeah!",
+    "linkUrl": false
+  },
+  {
+    "event_name": "idz_node_forum_publish",
+    "entity_id": "746475",
+    "url": "https://int2-software.intel.com/node/746475",
+    "description": "Inserted forum: test topic 01, ",
+    "expires": 1538769920252,
+    "points": 10,
+    "awarded": 1507233920252,
+    "nice_event_name": "forum",
+    "parsedEvent": {
+      "application": "idz",
+      "type": "node",
+      "subtype": "forum",
+      "action": "publish"
+    },
+    "linkText": "Inserted forum: test topic 01, ",
+    "linkUrl": "https://int2-software.intel.com/node/746475"
+  },
+  {
+    "event_name": "admin_point_grant_manual",
+    "entity_id": "1506961769232",
+    "url": "http://software.intel.com/1506961769232",
+    "description": "reasons",
+    "expires": 1538497769232,
+    "points": 100,
+    "awarded": 1506961769232,
+    "nice_event_name": "admin",
+    "parsedEvent": {
+      "application": "admin",
+      "type": "point",
+      "subtype": "grant",
+      "action": "manual"
+    },
+    "linkText": "reasons",
+    "linkUrl": false
+  },
+  {
+    "event_name": "idz_node_forum_publish",
+    "entity_id": "742894",
+    "url": "https://int2-software.intel.com/node/742894",
+    "description": "Inserted forum: testing testing testing, ",
+    "expires": 1535665751640,
+    "points": 10,
+    "awarded": 1504129751640,
+    "nice_event_name": "forum",
+    "parsedEvent": {
+      "application": "idz",
+      "type": "node",
+      "subtype": "forum",
+      "action": "publish"
+    },
+    "linkText": "Inserted forum: testing testing testing, ",
+    "linkUrl": "https://int2-software.intel.com/node/742894"
+  },
+  {
+    "event_name": "idz_comment_forum_publish",
+    "entity_id": "1909964",
+    "url": "https://int2-software.intel.com/comment/1909964",
+    "description": "Inserted 1909964: yay? for node: 740345",
+    "expires": 1533487774349,
+    "points": 20,
+    "awarded": 1501951774349,
+    "nice_event_name": "comment",
+    "parsedEvent": {
+      "application": "idz",
+      "type": "comment",
+      "subtype": "forum",
+      "action": "publish"
+    },
+    "linkText": "Inserted 1909964: yay? for node: 740345",
+    "linkUrl": "https://int2-software.intel.com/comment/1909964"
+  },
+  {
+    "event_name": "idz_comment_forum_publish",
+    "entity_id": "1909963",
+    "url": "https://int2-software.intel.com/comment/1909963",
+    "description": "Inserted 1909963: another comment for node: 740345",
+    "expires": 1533484860380,
+    "points": 20,
+    "awarded": 1501948860380,
+    "nice_event_name": "comment",
+    "parsedEvent": {
+      "application": "idz",
+      "type": "comment",
+      "subtype": "forum",
+      "action": "publish"
+    },
+    "linkText": "Inserted 1909963: another comment for node: 740345",
+    "linkUrl": "https://int2-software.intel.com/comment/1909963"
+  },
+  {
+    "event_name": "idz_comment_forum_publish",
+    "entity_id": "1909962",
+    "url": "https://int2-software.intel.com/comment/1909962",
+    "description": "Inserted 1909962: this is a comment for node: 740345",
+    "expires": 1533484817308,
+    "points": 20,
+    "awarded": 1501948817308,
+    "nice_event_name": "comment",
+    "parsedEvent": {
+      "application": "idz",
+      "type": "comment",
+      "subtype": "forum",
+      "action": "publish"
+    },
+    "linkText": "Inserted 1909962: this is a comment for node: 740345",
+    "linkUrl": "https://int2-software.intel.com/comment/1909962"
+  },
+  {
+    "event_name": "idz_node_forum_publish",
+    "entity_id": "740345",
+    "url": "https://int2-software.intel.com/node/740345",
+    "description": "Inserted forum: new test topic, ",
+    "expires": 1501950404436,
+    "points": 10,
+    "awarded": 1470414404436,
+    "nice_event_name": "forum",
+    "parsedEvent": {
+      "application": "idz",
+      "type": "node",
+      "subtype": "forum",
+      "action": "publish"
+    },
+    "linkText": "Inserted forum: new test topic, ",
+    "linkUrl": "https://int2-software.intel.com/node/740345"
+  },
+  {
+    "event_name": "legacy_comment_userpoints-nc-comment-insert",
+    "entity_id": "1906422",
+    "url": "https://software.intel.com/comment/1906422",
+    "description": "",
+    "expires": 1498169901000,
+    "points": 5,
+    "awarded": 1466633901000,
+    "nice_event_name": "comment",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "comment",
+      "subtype": null,
+      "action": "userpoints-nc-comment-insert"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/comment/1906422"
+  },
+  {
+    "event_name": "legacy_comment_userpoints-nc-comment-insert",
+    "entity_id": "1906421",
+    "url": "https://software.intel.com/comment/1906421",
+    "description": "",
+    "expires": 1498063740000,
+    "points": 5,
+    "awarded": 1466527740000,
+    "nice_event_name": "comment",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "comment",
+      "subtype": null,
+      "action": "userpoints-nc-comment-insert"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/comment/1906421"
+  },
+  {
+    "event_name": "legacy_comment_userpoints-nc-comment-insert",
+    "entity_id": "1906420",
+    "url": "https://software.intel.com/comment/1906420",
+    "description": "",
+    "expires": 1498063621000,
+    "points": 20,
+    "awarded": 1466527621000,
+    "nice_event_name": "comment",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "comment",
+      "subtype": null,
+      "action": "userpoints-nc-comment-insert"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/comment/1906420"
+  },
+  {
+    "event_name": "legacy_comment_userpoints-nc-comment-insert",
+    "entity_id": "1906419",
+    "url": "https://software.intel.com/comment/1906419",
+    "description": "",
+    "expires": 1498063254000,
+    "points": 20,
+    "awarded": 1466527254000,
+    "nice_event_name": "comment",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "comment",
+      "subtype": null,
+      "action": "userpoints-nc-comment-insert"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/comment/1906419"
+  },
+  {
+    "event_name": "legacy_comment_userpoints-nc-comment-insert",
+    "entity_id": "1906418",
+    "url": "https://software.intel.com/comment/1906418",
+    "description": "",
+    "expires": 1498063160000,
+    "points": 20,
+    "awarded": 1466527160000,
+    "nice_event_name": "comment",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "comment",
+      "subtype": null,
+      "action": "userpoints-nc-comment-insert"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/comment/1906418"
+  },
+  {
+    "event_name": "legacy_node_userpoints-nc-node-insert",
+    "entity_id": "735654",
+    "url": "https://software.intel.com/node/735654",
+    "description": "",
+    "expires": 1497644228000,
+    "points": 200,
+    "awarded": 1466108228000,
+    "nice_event_name": "article",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "node",
+      "subtype": null,
+      "action": "userpoints-nc-node-insert"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/node/735654"
+  },
+  {
+    "event_name": "legacy_node_userpoints-nc-node-insert",
+    "entity_id": "735645",
+    "url": "https://software.intel.com/node/735645",
+    "description": "",
+    "expires": 1497563897000,
+    "points": 200,
+    "awarded": 1466027897000,
+    "nice_event_name": "article",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "node",
+      "subtype": null,
+      "action": "userpoints-nc-node-insert"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/node/735645"
+  },
+  {
+    "event_name": "legacy_node_userpoints-nc-node-insert",
+    "entity_id": "735637",
+    "url": "https://software.intel.com/node/735637",
+    "description": "",
+    "expires": 1497556419000,
+    "points": 10,
+    "awarded": 1466020419000,
+    "nice_event_name": "article",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "node",
+      "subtype": null,
+      "action": "userpoints-nc-node-insert"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/node/735637"
+  },
+  {
+    "event_name": "legacy_node_userpoints-nc-node-insert",
+    "entity_id": "735631",
+    "url": "https://software.intel.com/node/735631",
+    "description": "",
+    "expires": 1497550584000,
+    "points": 80,
+    "awarded": 1466014584000,
+    "nice_event_name": "article",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "node",
+      "subtype": null,
+      "action": "userpoints-nc-node-insert"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/node/735631"
+  },
+  {
+    "event_name": "legacy_node_userpoints-nc-node-insert",
+    "entity_id": "735628",
+    "url": "https://software.intel.com/node/735628",
+    "description": "",
+    "expires": 1497548587000,
+    "points": 80,
+    "awarded": 1466012587000,
+    "nice_event_name": "article",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "node",
+      "subtype": null,
+      "action": "userpoints-nc-node-insert"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/node/735628"
+  },
+  {
+    "event_name": "legacy_node_userpoints-nc-node-insert",
+    "entity_id": "735626",
+    "url": "https://software.intel.com/node/735626",
+    "description": "",
+    "expires": 1497547450000,
+    "points": 80,
+    "awarded": 1466011450000,
+    "nice_event_name": "article",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "node",
+      "subtype": null,
+      "action": "userpoints-nc-node-insert"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/node/735626"
+  },
+  {
+    "event_name": "legacy_node_userpoints-nc-node-insert",
+    "entity_id": "735624",
+    "url": "https://software.intel.com/node/735624",
+    "description": "",
+    "expires": 1497398949000,
+    "points": 80,
+    "awarded": 1465862949000,
+    "nice_event_name": "article",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "node",
+      "subtype": null,
+      "action": "userpoints-nc-node-insert"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/node/735624"
+  },
+  {
+    "event_name": "legacy_node_userpoints-nc-node-insert",
+    "entity_id": "735623",
+    "url": "https://software.intel.com/node/735623",
+    "description": "",
+    "expires": 1497381985000,
+    "points": 80,
+    "awarded": 1465845985000,
+    "nice_event_name": "article",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "node",
+      "subtype": null,
+      "action": "userpoints-nc-node-insert"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/node/735623"
+  },
+  {
+    "event_name": "legacy_node_userpoints-nc-node-loss",
+    "entity_id": "735622",
+    "url": "https://software.intel.com/node/735622",
+    "description": "",
+    "expires": 1496870043000,
+    "points": -80,
+    "awarded": 1465334043000,
+    "nice_event_name": "article",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "node",
+      "subtype": null,
+      "action": "userpoints-nc-node-loss"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/node/735622"
+  },
+  {
+    "event_name": "legacy_node_userpoints-nc-node-publish",
+    "entity_id": "735622",
+    "url": "https://software.intel.com/node/735622",
+    "description": "",
+    "expires": 1496869965000,
+    "points": 80,
+    "awarded": 1465333965000,
+    "nice_event_name": "article",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "node",
+      "subtype": null,
+      "action": "userpoints-nc-node-publish"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/node/735622"
+  },
+  {
+    "event_name": "legacy_comment_userpoints-nc-comment-loss",
+    "entity_id": "1906417",
+    "url": "https://software.intel.com/comment/1906417",
+    "description": "",
+    "expires": 1496853621000,
+    "points": -5,
+    "awarded": 1465317621000,
+    "nice_event_name": "comment",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "comment",
+      "subtype": null,
+      "action": "userpoints-nc-comment-loss"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/comment/1906417"
+  },
+  {
+    "event_name": "legacy_comment_userpoints-nc-comment-insert",
+    "entity_id": "1906417",
+    "url": "https://software.intel.com/comment/1906417",
+    "description": "",
+    "expires": 1496853220000,
+    "points": 5,
+    "awarded": 1465317220000,
+    "nice_event_name": "comment",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "comment",
+      "subtype": null,
+      "action": "userpoints-nc-comment-insert"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/comment/1906417"
+  },
+  {
+    "event_name": "legacy_comment_userpoints-nc-comment-insert",
+    "entity_id": "1906416",
+    "url": "https://software.intel.com/comment/1906416",
+    "description": "",
+    "expires": 1496851622000,
+    "points": 5,
+    "awarded": 1465315622000,
+    "nice_event_name": "comment",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "comment",
+      "subtype": null,
+      "action": "userpoints-nc-comment-insert"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/comment/1906416"
+  },
+  {
+    "event_name": "legacy_node_userpoints-nc-node-publish",
+    "entity_id": "735621",
+    "url": "https://software.intel.com/node/735621",
+    "description": "",
+    "expires": 1496771565000,
+    "points": 80,
+    "awarded": 1465235565000,
+    "nice_event_name": "article",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "node",
+      "subtype": null,
+      "action": "userpoints-nc-node-publish"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/node/735621"
+  },
+  {
+    "event_name": "legacy_node_userpoints-nc-node-insert",
+    "entity_id": "735620",
+    "url": "https://software.intel.com/node/735620",
+    "description": "",
+    "expires": 1496700668000,
+    "points": 80,
+    "awarded": 1465164668000,
+    "nice_event_name": "article",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "node",
+      "subtype": null,
+      "action": "userpoints-nc-node-insert"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/node/735620"
+  },
+  {
+    "event_name": "legacy_node_userpoints-nc-node-publish",
+    "entity_id": "735619",
+    "url": "https://software.intel.com/node/735619",
+    "description": "",
+    "expires": 1496684975000,
+    "points": 80,
+    "awarded": 1465148975000,
+    "nice_event_name": "article",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "node",
+      "subtype": null,
+      "action": "userpoints-nc-node-publish"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/node/735619"
+  },
+  {
+    "event_name": "legacy_node_userpoints-nc-node-insert",
+    "entity_id": "735617",
+    "url": "https://software.intel.com/node/735617",
+    "description": "",
+    "expires": 1496683087000,
+    "points": 10,
+    "awarded": 1465147087000,
+    "nice_event_name": "article",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "node",
+      "subtype": null,
+      "action": "userpoints-nc-node-insert"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/node/735617"
+  },
+  {
+    "event_name": "legacy_node_userpoints-nc-node-insert",
+    "entity_id": "735616",
+    "url": "https://software.intel.com/node/735616",
+    "description": "",
+    "expires": 1496680058000,
+    "points": 80,
+    "awarded": 1465144058000,
+    "nice_event_name": "article",
+    "parsedEvent": {
+      "application": "legacy",
+      "type": "node",
+      "subtype": null,
+      "action": "userpoints-nc-node-insert"
+    },
+    "linkText": "",
+    "linkUrl": "https://software.intel.com/node/735616"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "enterprise_id": "11531542",
+    "create_date_timestamp": 1411419675799,
+    "profile_image":
+      "https://s3.amazonaws.com/idz-profile-images-test/11531542/sirloin-1200-1200.jpg",
+    "first_name": "Brent",
+    "last_name": "Rieck",
+    "display_name": "Brent Rieck (Intel)",
+    "email": "brent.rieck@intel.com",
+    "company": "Intel",
+    "phone": "503.503.5400",
+    "country": "US",
+    "language": "en-US",
+    "bio": "All about Brent - he likes Astoria.\n\n<b>yay?</b>",
+    "signature": "Signature",
+    "belt": "blue",
+    "points": "140",
+    "total_points": "1365",
+    "other_services": {
+      "twitter": "bsr",
+      "github": "bsr",
+      "developer-mesh": "bsr",
+      "website": "http://bsr.fun"
+    },
+    "other_ids": {
+      "idz": "1083371"
+    }
+  },
+  {
+    "enterprise_id": "11531542",
+    "create_date_timestamp": 1411419675799,
+    "profile_image":
+      "https://s3.amazonaws.com/idz-profile-images-test/11531542/sirloin-1200-1200.jpg",
+    "first_name": "Brunt",
+    "last_name": "Ruck",
+    "display_name": "Brent Rieck (Intel)",
+    "email": "brent.rieck@intel.com",
+    "company": "Intel",
+    "phone": "503.503.5400",
+    "country": "US",
+    "language": "en-US",
+    "bio": "All about Brent - he likes Astoria.\n\n<b>yay?</b>",
+    "signature": "Signature",
+    "belt": "blue",
+    "points": "140",
+    "total_points": "1365",
+    "other_services": {
+      "twitter": "bsr",
+      "github": "bsr",
+      "developer-mesh": "bsr",
+      "website": "http://bsr.fun"
+    },
+    "other_ids": {
+      "idz": "1083371"
+    }
+  }
+]

@@ -1,0 +1,157 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ProfileImage /> expect to match snapshot 1`] = `
+<div
+  className="row bottom-margin-lg"
+>
+  <div
+    className="col-auto profileImage"
+  >
+    <img
+      className="icon-upload-lg"
+      src="https://s3.amazonaws.com/dpi-intx/11531542/sirloin-1200-1200.jpg"
+    />
+  </div>
+  <div
+    className="col"
+  >
+    <ProfileImageButton
+      checked={false}
+      handleClick={[Function]}
+      image="https://s3.amazonaws.com/dpi-prod/default-images/avatar-Autonomous-1.jpg"
+      key="https://s3.amazonaws.com/dpi-prod/default-images/avatar-Autonomous-1.jpg"
+    />
+    <ProfileImageButton
+      checked={false}
+      handleClick={[Function]}
+      image="https://s3.amazonaws.com/dpi-prod/default-images/avatar-Autonomous-2.jpg"
+      key="https://s3.amazonaws.com/dpi-prod/default-images/avatar-Autonomous-2.jpg"
+    />
+    <ProfileImageButton
+      checked={false}
+      handleClick={[Function]}
+      image="https://s3.amazonaws.com/dpi-prod/default-images/avatar-Data.jpg"
+      key="https://s3.amazonaws.com/dpi-prod/default-images/avatar-Data.jpg"
+    />
+    <ProfileImageButton
+      checked={false}
+      handleClick={[Function]}
+      image="https://s3.amazonaws.com/dpi-prod/default-images/avatar-GD.jpg"
+      key="https://s3.amazonaws.com/dpi-prod/default-images/avatar-GD.jpg"
+    />
+    <ProfileImageButton
+      checked={false}
+      handleClick={[Function]}
+      image="https://s3.amazonaws.com/dpi-prod/default-images/avatar-IoT-1.jpg"
+      key="https://s3.amazonaws.com/dpi-prod/default-images/avatar-IoT-1.jpg"
+    />
+    <ProfileImageButton
+      checked={false}
+      handleClick={[Function]}
+      image="https://s3.amazonaws.com/dpi-prod/default-images/avatar-IoT-2.jpg"
+      key="https://s3.amazonaws.com/dpi-prod/default-images/avatar-IoT-2.jpg"
+    />
+    <ProfileImageButton
+      checked={false}
+      handleClick={[Function]}
+      image="https://s3.amazonaws.com/dpi-prod/default-images/avatar-Realsense.jpg"
+      key="https://s3.amazonaws.com/dpi-prod/default-images/avatar-Realsense.jpg"
+    />
+    <ProfileImageButton
+      checked={false}
+      handleClick={[Function]}
+      image="https://s3.amazonaws.com/dpi-prod/default-images/bot01.jpg"
+      key="https://s3.amazonaws.com/dpi-prod/default-images/bot01.jpg"
+    />
+    <ProfileImageButton
+      checked={false}
+      handleClick={[Function]}
+      image="https://s3.amazonaws.com/dpi-prod/default-images/one-eye.jpg"
+      key="https://s3.amazonaws.com/dpi-prod/default-images/one-eye.jpg"
+    />
+    <ProfileImageButton
+      checked={false}
+      handleClick={[Function]}
+      image="https://s3.amazonaws.com/dpi-prod/default-images/paper-bird.jpg"
+      key="https://s3.amazonaws.com/dpi-prod/default-images/paper-bird.jpg"
+    />
+    <ProfileImageButton
+      checked={false}
+      handleClick={[Function]}
+      image="https://s3.amazonaws.com/dpi-prod/default-images/see-all-the-things.jpg"
+      key="https://s3.amazonaws.com/dpi-prod/default-images/see-all-the-things.jpg"
+    />
+    <ProfileImageButton
+      checked={false}
+      handleClick={[Function]}
+      image="https://s3.amazonaws.com/dpi-prod/default-images/time.jpg"
+      key="https://s3.amazonaws.com/dpi-prod/default-images/time.jpg"
+    />
+    <ProfileImageButton
+      checked={false}
+      handleClick={[Function]}
+      image="https://s3.amazonaws.com/dpi-prod/default-images/wire-head.jpg"
+      key="https://s3.amazonaws.com/dpi-prod/default-images/wire-head.jpg"
+    />
+    <ProfileImageButton
+      checked={true}
+      handleClick={[Function]}
+      image="https://s3.amazonaws.com/dpi-intx/11531542/sirloin-1200-1200.jpg"
+      key="https://s3.amazonaws.com/dpi-intx/11531542/sirloin-1200-1200.jpg"
+    />
+    <div>
+      <p>
+        Recommended: 300x500 pixels
+      </p>
+      <form
+        action="/dashboard/api/saveProfileImage"
+        id="profileImageUpload"
+      >
+        <div
+          className="row no-gutters"
+        >
+          <button
+            className="btn btn-primary proxyBtn"
+            onClick={[Function]}
+            type="button"
+          >
+            <div
+              className="btn-loader"
+            >
+              <img
+                className="btn-loader-sm off"
+                src="images/loader.gif"
+              />
+            </div>
+            Upload
+          </button>
+          <button
+            className="btn btn-primary"
+            onClick={[Function]}
+            type="button"
+          >
+            <div
+              className="btn-loader"
+            >
+              <img
+                className="btn-loader-sm off"
+                src="images/loader.gif"
+              />
+            </div>
+            Remove
+          </button>
+          <input
+            className="hiddenBtn"
+            id="file"
+            name="image"
+            type="file"
+          />
+        </div>
+      </form>
+      <div
+        className="error-message"
+      />
+    </div>
+  </div>
+</div>
+`;

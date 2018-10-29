@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TextComponent /> expect to match snapshot 1`] = `
+<div
+  className="text-component no-gutters"
+>
+  <div
+    className="col-md-3 col-lg-2 d-inline-block align-middle"
+  >
+    <label
+      className="label-title"
+      htmlFor="first_name"
+    >
+      <span
+        className="category"
+      >
+        A String
+      </span>
+    </label>
+  </div>
+  <div
+    className="col-md-9 col-lg-10 align-middle d-inline-block"
+  >
+    <input
+      className="category form-control small"
+      id="first_name"
+      onBlur={[Function]}
+      onChange={[Function]}
+      onFocus={[Function]}
+      placeholder="Required"
+      required="Required"
+      type="text"
+      value="Bill"
+    />
+    <div
+      className="error-message off"
+    >
+      hasError
+    </div>
+  </div>
+</div>
+`;

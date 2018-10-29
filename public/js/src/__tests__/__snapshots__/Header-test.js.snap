@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> expect to match snapshot 1`] = `
+<div>
+  <div
+    className="DashboardHeader"
+  >
+    <div
+      className="width-1440 mx-auto"
+    >
+      <div
+        className="row no-gutters align-items-center"
+      >
+        <span
+          className="col-logo hand icon-logo-intel"
+          onClick={[Function]}
+        />
+        <div
+          className="col h_title hand my-auto"
+          onClick={[Function]}
+        >
+          Developer Zone
+        </div>
+        <div
+          className="col-auto text-right col-login my-auto"
+        >
+          <span
+            className="icon-help"
+          />
+          <a
+            href="/en-US/support"
+          >
+            Support
+          </a>
+          <div
+            className="d-inline-block text-nowrap"
+          >
+            <span
+              className="icon-user"
+            />
+            <a
+              href="/dashboard/logout"
+            >
+              Sign Out
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="NavigationHeader"
+  >
+    <div
+      className="width-1440 padding-left-20 mx-auto row no-gutters text-nowrap"
+    >
+      <div
+        className="col-auto nav_item"
+      >
+        <a
+          href="#profile"
+          id="nav_profile"
+        >
+          Your Profile
+        </a>
+      </div>
+      <div
+        className="col-auto nav_item"
+      >
+        <a
+          href="#contributions"
+          id="nav_contributions"
+        >
+          Your Contributions
+        </a>
+      </div>
+      <div
+        className="col-auto nav_item"
+      >
+        <a
+          href="#products"
+          id="nav_products"
+        >
+          Your Products
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;

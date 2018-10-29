@@ -1,0 +1,311 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ContributionsComponent /> expect to match snapshot 1`] = `
+<div
+  className="container-fluid"
+>
+  <div
+    className="d-block"
+    id="contribution-content"
+  >
+    <select
+      className="capitalize filter_dropdown form-control"
+      defaultValue="default"
+      id="select_filter"
+      onChange={[Function]}
+    >
+      <option
+        disabled={true}
+        key="filter"
+        value="default"
+      >
+        Filter By...
+      </option>
+      <option
+        key="0"
+        value="admin"
+      >
+        admin
+      </option>
+      <option
+        key="1"
+        value="blog"
+      >
+        blog
+      </option>
+      <option
+        key="2"
+        value="comment"
+      >
+        comment
+      </option>
+      <option
+        key="3"
+        value="forum"
+      >
+        forum
+      </option>
+      <option
+        key="4"
+        value="article"
+      >
+        article
+      </option>
+    </select>
+    <table
+      className="table table-responsive"
+    >
+      <thead>
+        <tr>
+          <th>
+            Type
+          </th>
+          <th>
+            Title
+          </th>
+          <th>
+            Posted
+          </th>
+          <th>
+            Points Earned
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr
+          className="contribution"
+          key="0"
+        >
+          <td>
+            Admin
+             
+          </td>
+          <td>
+            belt testing
+          </td>
+          <td>
+            10/24/2017, 2:08:24 PM
+          </td>
+          <td>
+            -1100
+          </td>
+        </tr>
+        <tr
+          className="contribution"
+          key="1"
+        >
+          <td>
+            Blog
+             
+            (unpublished)
+          </td>
+          <td>
+            blog: new event name test
+          </td>
+          <td>
+            10/13/2017, 2:36:08 PM
+          </td>
+          <td>
+            -80
+          </td>
+        </tr>
+        <tr
+          className="contribution"
+          key="2"
+        >
+          <td>
+            Comment
+             
+            (unpublished)
+          </td>
+          <td>
+            article comment #2
+          </td>
+          <td>
+            10/13/2017, 2:07:45 PM
+          </td>
+          <td>
+            -5
+          </td>
+        </tr>
+        <tr
+          className="contribution"
+          key="3"
+        >
+          <td>
+            Comment
+             
+          </td>
+          <td>
+            <a
+              href="https://int2-software.intel.com/comment/1913417"
+            >
+              article comment #3
+            </a>
+          </td>
+          <td>
+            10/13/2017, 2:07:19 PM
+          </td>
+          <td>
+            5
+          </td>
+        </tr>
+        <tr
+          className="contribution"
+          key="4"
+        >
+          <td>
+            Comment
+             
+          </td>
+          <td>
+            article comment #2
+          </td>
+          <td>
+            10/13/2017, 2:05:04 PM
+          </td>
+          <td>
+            5
+          </td>
+        </tr>
+        <tr
+          className="contribution"
+          key="5"
+        >
+          <td>
+            Comment
+             
+          </td>
+          <td>
+            <a
+              href="https://int2-software.intel.com/comment/1913415"
+            >
+              blog comment #2
+            </a>
+          </td>
+          <td>
+            10/13/2017, 2:04:54 PM
+          </td>
+          <td>
+            5
+          </td>
+        </tr>
+        <tr
+          className="contribution"
+          key="6"
+        >
+          <td>
+            Comment
+             
+          </td>
+          <td>
+            <a
+              href="https://int2-software.intel.com/comment/1913414"
+            >
+              forum comment
+            </a>
+          </td>
+          <td>
+            10/13/2017, 2:04:07 PM
+          </td>
+          <td>
+            20
+          </td>
+        </tr>
+        <tr
+          className="contribution"
+          key="7"
+        >
+          <td>
+            Forum
+             
+          </td>
+          <td>
+            <a
+              href="https://int2-software.intel.com/node/746640"
+            >
+              forum: new event name test
+            </a>
+          </td>
+          <td>
+            10/13/2017, 11:27:20 AM
+          </td>
+          <td>
+            10
+          </td>
+        </tr>
+        <tr
+          className="contribution"
+          key="8"
+        >
+          <td>
+            Blog
+             
+          </td>
+          <td>
+            blog: new event name test
+          </td>
+          <td>
+            10/13/2017, 11:26:00 AM
+          </td>
+          <td>
+            80
+          </td>
+        </tr>
+        <tr
+          className="contribution"
+          key="9"
+        >
+          <td>
+            Article
+             
+          </td>
+          <td>
+            <a
+              href="https://int2-software.intel.com/node/746638"
+            >
+              article: new event name test
+            </a>
+          </td>
+          <td>
+            10/13/2017, 11:24:57 AM
+          </td>
+          <td>
+            80
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div
+    className="col-12 text-center"
+  >
+    <div
+      className="loader row"
+    >
+      <div
+        className="d-none"
+        id="no_cont"
+      >
+        No contributions yet
+      </div>
+      <div
+        className="col-12 d-none"
+        id="loader_cont"
+      >
+        <img
+          src="images/loader.gif"
+        />
+      </div>
+    </div>
+    <button
+      className="btn btn-secondary "
+      id="view_more_btn"
+      onClick={[Function]}
+      type="button"
+    >
+      View More
+    </button>
+  </div>
+</div>
+`;

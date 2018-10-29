@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BeltStatusComponent /> expect to match snapshot 1`] = `
+<div
+  className="row no-gutters"
+>
+  <div
+    className="col-md-3 col-lg-2"
+  >
+    <span
+      className="icon-belt blue"
+    />
+  </div>
+  <div
+    className="col-md-9 col-lg-10 vtop"
+  >
+    <p
+      className="title"
+    >
+      You are a blue belt
+      <br />
+      <a
+        href="https://software.intel.com/en-us/blackbelt"
+        key="0"
+      >
+        Learn about belt status &gt;
+      </a>
+    </p>
+    <p
+      className="title"
+    >
+      Points Activity
+    </p>
+    <p>
+      <span>
+        Current Status Points:
+      </span>
+       
+      9,000
+    </p>
+    <p>
+      <span>
+        Total Lifetime Points:
+      </span>
+       
+      9,001
+    </p>
+    <p />
+  </div>
+</div>
+`;

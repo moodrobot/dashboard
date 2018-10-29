@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dashboard | Intel® Developer Zone</title>
+  <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=Intl.~locale.ru,Intl.~locale.pt,Intl.~locale.zh,Intl.~locale.es"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+</head>
+<body>
+  <script type="text/javascript">
+    function getParameterByName(name, url) {
+      if (!url) url = window.location.href;
+      name = name.replace(/[\[\]]/g, "\\$&");
+      var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+          results = regex.exec(url);
+      if (!results) return null;
+      if (!results[2]) return '';
+      return decodeURIComponent(results[2].replace(/\+/g, " "));
+    }
+
+    //configure tms
+    var wapLocalCode = getParameterByName("lang"); //dynamically set per localized site, see mapping table for values
+    if (wapLocalCode === null) {
+      wapLocalCode = "en-us";
+    }
+
+    var wapSection = "ssg-intel"; //section, specific for each site
+    //load tms
+    (function() {
+      var host = (window.document.location.protocol == 'http:') ? "https://www.intel.com" : "https://www.intel.com";
+      var url = host+"/content/dam/www/global/wap/wap-ssg-intel.js"; //wap file url
+      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;  po.src = url;
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+  </script>
+  <div id="mount"></div>
+  <noscript><h1>Sorry!</h1>
+    <p>This site requires javascript to operate <pre>:(</pre></p>
+  </noscript>
+</body>
+</html>

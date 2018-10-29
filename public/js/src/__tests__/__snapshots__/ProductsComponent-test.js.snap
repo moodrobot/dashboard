@@ -1,0 +1,1147 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ProductsComponent /> expect to match snapshot 1`] = `
+<div
+  className="container-fluid"
+>
+  <div
+    className="loader row"
+  >
+    <div
+      className="d-none"
+      id="no_prod"
+    >
+      No products yet
+    </div>
+    <div
+      className="col-12 d-none"
+      id="loader_prod"
+    >
+      <img
+        src="images/loader.gif"
+      />
+    </div>
+  </div>
+  <div
+    className="d-block"
+    id="product-content"
+  >
+    <div
+      className="container-fluid"
+    >
+      <ul
+        className="list-unstyled"
+      >
+        <li
+          className="product"
+          key="0"
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="col-md-4 col-sm-12 text-center"
+            >
+              <img
+                className="float-image-center"
+                src="https://registrationcenter.intel.com/includes/images/boxshots/BS_GO.png"
+              />
+            </div>
+            <div
+              className="col"
+            >
+              <div
+                className="row no-gutters"
+              >
+                <div
+                  className="col my-auto"
+                >
+                  <span
+                    className="title text-md-nowrap"
+                  >
+                    Intel® GO™ Automotive SDK
+                  </span>
+                </div>
+                <div
+                  className="col-md-auto"
+                />
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Serial Number
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  B7HV-R7B874GG
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  License Type
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  Named-user
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Purchase Date
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  10/4/2017
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Expiration Date
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  6/30/2018
+                </div>
+              </div>
+              <p
+                className="top-pad"
+              >
+                <a
+                  href="https://registrationcenter.intel.com/en/products/subscription/834"
+                >
+                  Manage License
+                </a>
+              </p>
+              <p
+                className="top-pad"
+              >
+                <a
+                  href="https://software.intel.com/en-us/go-automotive-sdk/support"
+                >
+                  Forum
+                </a>
+              </p>
+            </div>
+          </div>
+        </li>
+        <li
+          className="product"
+          key="1"
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="col-md-4 col-sm-12 text-center"
+            >
+              <img
+                className="float-image-center"
+                src="https://registrationcenter.intel.com/includes/images/boxshots/BS_Marquee_system_studio.png"
+              />
+            </div>
+            <div
+              className="col"
+            >
+              <div
+                className="row no-gutters"
+              >
+                <div
+                  className="col my-auto"
+                >
+                  <span
+                    className="title text-md-nowrap"
+                  >
+                    Intel® System Studio Beta
+                  </span>
+                </div>
+                <div
+                  className="col-md-auto"
+                />
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Serial Number
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  B7H4-XTDG54FF
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  License Type
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  Named-user
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Purchase Date
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  10/2/2017
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Expiration Date
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  1/6/2018
+                </div>
+              </div>
+              <p
+                className="top-pad"
+              >
+                <a
+                  href="https://registrationcenter.intel.com/en/products/subscription/827"
+                >
+                  Manage License
+                </a>
+              </p>
+              <p
+                className="top-pad"
+              >
+                <a
+                  href="https://software.intel.com/en-us/forums/intel-system-studio"
+                >
+                  Forum
+                </a>
+              </p>
+            </div>
+          </div>
+        </li>
+        <li
+          className="product"
+          key="2"
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="col-md-4 col-sm-12 text-center"
+            >
+              <img
+                className="float-image-center"
+                src="https://registrationcenter.intel.com/includes/images/boxshots/BS_Python.png"
+              />
+            </div>
+            <div
+              className="col"
+            >
+              <div
+                className="row no-gutters"
+              >
+                <div
+                  className="col my-auto"
+                >
+                  <span
+                    className="title text-md-nowrap"
+                  >
+                    Intel® Distribution for Python
+                  </span>
+                </div>
+                <div
+                  className="col-md-auto"
+                />
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Serial Number
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  CTGC-JJPDBCTZ
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  License Type
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  No License
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Purchase Date
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  6/29/2017
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Expiration Date
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  6/29/2018
+                </div>
+              </div>
+              <p
+                className="top-pad"
+              >
+                <a
+                  href="https://registrationcenter.intel.com/en/products/subscription/797"
+                >
+                  Manage License
+                </a>
+              </p>
+              <p
+                className="top-pad"
+              >
+                <a
+                  href="https://software.intel.com/en-us/forums/intel-distribution-for-python"
+                >
+                  Forum
+                </a>
+              </p>
+            </div>
+          </div>
+        </li>
+        <li
+          className="product"
+          key="3"
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="col-md-4 col-sm-12 text-center"
+            >
+              <img
+                className="float-image-center"
+                src="https://registrationcenter.intel.com/includes/images/boxshots/BS_Python.png"
+              />
+            </div>
+            <div
+              className="col"
+            >
+              <div
+                className="row no-gutters"
+              >
+                <div
+                  className="col my-auto"
+                >
+                  <span
+                    className="title text-md-nowrap"
+                  >
+                    Intel® Distribution for Python
+                  </span>
+                </div>
+                <div
+                  className="col-md-auto"
+                />
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Serial Number
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  CTGC-ZGS5HSTT
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  License Type
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  No License
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Purchase Date
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  6/8/2017
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Expiration Date
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  6/8/2018
+                </div>
+              </div>
+              <p
+                className="top-pad"
+              >
+                <a
+                  href="https://registrationcenter.intel.com/en/products/subscription/797"
+                >
+                  Manage License
+                </a>
+              </p>
+              <p
+                className="top-pad"
+              >
+                <a
+                  href="https://software.intel.com/en-us/forums/intel-distribution-for-python"
+                >
+                  Forum
+                </a>
+              </p>
+            </div>
+          </div>
+        </li>
+        <li
+          className="product"
+          key="4"
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="col-md-4 col-sm-12 text-center"
+            >
+              <img
+                className="float-image-center"
+                src="https://registrationcenter.intel.com/includes/images/boxshots/BS_Python.png"
+              />
+            </div>
+            <div
+              className="col"
+            >
+              <div
+                className="row no-gutters"
+              >
+                <div
+                  className="col my-auto"
+                >
+                  <span
+                    className="title text-md-nowrap"
+                  >
+                    Intel® Distribution for Python
+                  </span>
+                </div>
+                <div
+                  className="col-md-auto"
+                />
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Serial Number
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  CTGC-PK25ZR6L
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  License Type
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  No License
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Purchase Date
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  6/8/2017
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Expiration Date
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  6/8/2018
+                </div>
+              </div>
+              <p
+                className="top-pad"
+              >
+                <a
+                  href="https://registrationcenter.intel.com/en/products/subscription/797"
+                >
+                  Manage License
+                </a>
+              </p>
+              <p
+                className="top-pad"
+              >
+                <a
+                  href="https://software.intel.com/en-us/forums/intel-distribution-for-python"
+                >
+                  Forum
+                </a>
+              </p>
+            </div>
+          </div>
+        </li>
+        <li
+          className="product"
+          key="5"
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="col-md-4 col-sm-12 text-center"
+            >
+              <img
+                className="float-image-center"
+                src="https://registrationcenter.intel.com/includes/images/boxshots/BS_XE_edition.png"
+              />
+            </div>
+            <div
+              className="col"
+            >
+              <div
+                className="row no-gutters"
+              >
+                <div
+                  className="col my-auto"
+                >
+                  <span
+                    className="title text-md-nowrap"
+                  >
+                    Intel® Parallel Studio XE Cluster Edition for Linux*
+                  </span>
+                </div>
+                <div
+                  className="col-md-auto"
+                />
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Serial Number
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  C9TX-DZ97JCLM
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  License Type
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  Named-user
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Purchase Date
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  4/25/2017
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Expiration Date
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  4/25/2018
+                </div>
+              </div>
+              <p
+                className="top-pad"
+              >
+                <a
+                  href="https://registrationcenter.intel.com/en/products/subscription/441"
+                >
+                  Manage License
+                </a>
+              </p>
+              <p
+                className="top-pad"
+              >
+                <a
+                  href="https://software.intel.com/en-us/forums/intel-software-development-products"
+                >
+                  Forum
+                </a>
+              </p>
+            </div>
+          </div>
+        </li>
+        <li
+          className="product"
+          key="6"
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="col-md-4 col-sm-12 text-center"
+            >
+              <img
+                className="float-image-center"
+                src="https://registrationcenter.intel.com/includes/images/boxshots/BS_XE_edition.png"
+              />
+            </div>
+            <div
+              className="col"
+            >
+              <div
+                className="row no-gutters"
+              >
+                <div
+                  className="col my-auto"
+                >
+                  <span
+                    className="title text-md-nowrap"
+                  >
+                    Intel® Parallel Studio XE Beta 
+                  </span>
+                </div>
+                <div
+                  className="col-md-auto"
+                />
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Serial Number
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  B2C3-X8JG2DP9
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  License Type
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  Named-user
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Purchase Date
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  4/21/2017
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Expiration Date
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  10/12/2017
+                </div>
+              </div>
+              <p
+                className="top-pad"
+              >
+                <a
+                  href="https://registrationcenter.intel.com/en/products/subscription/690"
+                >
+                  Manage License
+                </a>
+              </p>
+            </div>
+          </div>
+        </li>
+        <li
+          className="product"
+          key="7"
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="col-md-4 col-sm-12 text-center"
+            >
+              <img
+                className="float-image-center"
+                src={null}
+              />
+            </div>
+            <div
+              className="col"
+            >
+              <div
+                className="row no-gutters"
+              >
+                <div
+                  className="col my-auto"
+                >
+                  <span
+                    className="title text-md-nowrap"
+                  >
+                    Intel® Capability Licensing Service
+                  </span>
+                </div>
+                <div
+                  className="col-md-auto"
+                />
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Serial Number
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  C2N8-DVRVFXMN
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  License Type
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  No License
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Purchase Date
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  4/4/2017
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Expiration Date
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  4/4/2018
+                </div>
+              </div>
+              <p
+                className="top-pad"
+              >
+                <a
+                  href="https://registrationcenter.intel.com/en/products/subscription/818"
+                >
+                  Manage License
+                </a>
+              </p>
+              <p
+                className="top-pad"
+              >
+                <a
+                  href="https://software.intel.com/en-us/forums/intel-software-guard-extensions-intel-sgx"
+                >
+                  Forum
+                </a>
+              </p>
+            </div>
+          </div>
+        </li>
+        <li
+          className="product"
+          key="8"
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="col-md-4 col-sm-12 text-center"
+            >
+              <img
+                className="float-image-center"
+                src="https://registrationcenter.intel.com/includes/images/boxshots/BS_Marquee_Gears.png"
+              />
+            </div>
+            <div
+              className="col"
+            >
+              <div
+                className="row no-gutters"
+              >
+                <div
+                  className="col my-auto"
+                >
+                  <span
+                    className="title text-md-nowrap"
+                  >
+                    Deep Learning Training Tool Beta from Intel
+                  </span>
+                </div>
+                <div
+                  className="col-md-auto"
+                />
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Serial Number
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  BBLF-XK4GVCNM
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  License Type
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  No License
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Purchase Date
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  3/31/2017
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Expiration Date
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  12/31/2017
+                </div>
+              </div>
+              <p
+                className="top-pad"
+              >
+                <a
+                  href="https://registrationcenter.intel.com/en/products/subscription/800"
+                >
+                  Manage License
+                </a>
+              </p>
+            </div>
+          </div>
+        </li>
+        <li
+          className="product"
+          key="9"
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="col-md-4 col-sm-12 text-center"
+            >
+              <img
+                className="float-image-center"
+                src="https://registrationcenter.intel.com/includes/images/boxshots/BS_Marquee_Gears.png"
+              />
+            </div>
+            <div
+              className="col"
+            >
+              <div
+                className="row no-gutters"
+              >
+                <div
+                  className="col my-auto"
+                >
+                  <span
+                    className="title text-md-nowrap"
+                  >
+                    Intel® Performance Libraries
+                  </span>
+                </div>
+                <div
+                  className="col-md-auto"
+                />
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Serial Number
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  33RM-RDF8T4JG
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  License Type
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  SystemLocked
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Purchase Date
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  3/1/2017
+                </div>
+              </div>
+              <div
+                className="row align-top"
+              >
+                <div
+                  className="col-sm-7 col-lg-5 category"
+                >
+                  Expiration Date
+                </div>
+                <div
+                  className="col-sm-5 content"
+                >
+                  3/1/2018
+                </div>
+              </div>
+              <p
+                className="top-pad"
+              >
+                <a
+                  href="https://registrationcenter.intel.com/en/products/subscription/737"
+                >
+                  Manage License
+                </a>
+              </p>
+              <p
+                className="top-pad"
+              >
+                <a
+                  href="https://software.intel.com/en-us/user-support-forums-for-intel-performance-libraries"
+                >
+                  Forum
+                </a>
+              </p>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div
+      className="row text-center"
+    >
+      <div
+        className="col text-center"
+      >
+        <button
+          className="btn btn-secondary "
+          id="view_more_prod_btn"
+          onClick={[Function]}
+          type="button"
+        >
+          View More
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
